@@ -10,14 +10,14 @@ theme = "business-frontpage"
 
     [params.navbar]
         name = "RSSLab @ Pitt"
-        url = "#"
+        url = "/"
         [[params.navbar.nav]]
         current = true
         name = "Home"
-        url = "#"
+        url = "/"
         [[params.navbar.nav]]
         name = "People"
-        url = "#"
+        url = "/people/"
         [[params.navbar.nav]]
         name = "Research"
         url = "#"
@@ -97,6 +97,18 @@ theme = "business-frontpage"
         #url = "#"
         # image = "image.png"
 
+    [params.people]
+        [[params.people.sections]]
+        title = "Faculty"
+
+        [[params.people.sections.rows]]
+        # title = "Section 1, Row 1"
+
+        [[params.people.sections.rows.items]]
+        name = "Amy Babay"
+        research_interests = "Intrusion tolerance, overlay networks, critical infrastructure, real-time internet services, community environmental monitoring networks"
+        url = "https://sites.pitt.edu/~babay"
+        # image = "image.png"
 
     [params.footer]
         copyright = "University of Pittsburgh Resilient Systems and Societies Lab"
