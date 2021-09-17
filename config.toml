@@ -1,0 +1,105 @@
+# Page settings
+baseURL = "http://pitt-rssl.github.io"
+languageCode = "en-us"
+title = "RSSLab @ Pitt"
+theme = "business-frontpage"
+
+[params]
+    author = "University of Pittsburgh Resilient Systems and Societies Lab"
+    description = "A computer systems research lab at Pitt, focusing on distributed systems and networks."
+
+    [params.navbar]
+        name = "RSSLab @ Pitt"
+        url = "#"
+        [[params.navbar.nav]]
+        current = true
+        name = "Home"
+        url = "#"
+        [[params.navbar.nav]]
+        name = "People"
+        url = "#"
+        [[params.navbar.nav]]
+        name = "Research"
+        url = "#"
+        [[params.navbar.nav]]
+        name = "Publications"
+        url = "#"
+
+    [params.header]
+        name = "University of Pittsburgh Resilient Systems and Societies Lab"
+        tagline = "We are a computer systems research group at the University of Pittsburgh School of Computing and Information, with a focus on dependable infrastructure. We aim to make the networked systems our society relies on resilient to failures and attacks, and to develop new network technologies that help bring people together."
+
+    [params.summary]
+        url = "#"
+
+        [params.summary.description]
+
+        [[params.summary.description.items]]
+        description = "We do research on distributed systems and networks."
+
+        [[params.summary.description.items]]
+        description = "It's pretty cool."
+
+
+        [params.summary.contact]
+        name = "RSSLab @ Pitt"
+        address1 = "Information Sciences Building"
+        address2 = "135 N. Bellefield Ave"
+        address3 = "Pittsburgh, PA 15213"
+        phone = ""
+        email = "babay (at) pitt.edu"
+
+
+    [params.projects]
+
+        [[params.projects.sections]]
+        title = "Active Projects"
+
+        [[params.projects.sections.rows]]
+        # title = "Section 1, Row 1"
+
+        [[params.projects.sections.rows.items]]
+        title = "Resilience to compound threats"
+        description = "We are investigating how to model critical infrastructure resilience to compound threats involving natural disasters and opportunistic cyberattacks, and how to design new system architectures to better withstand these threats."
+        url = "#"
+        # image = "image.png"
+
+        [[params.projects.sections.rows.items]]
+        title = "Intrusion tolerance as a service"
+        description = "Needs a description!"
+        url = "#"
+        # image = "image.png"
+        
+        [[params.projects.sections.rows.items]]
+        title = "Community-based environmental monitoring"
+        description = "Needs a description!"
+        url = "https://pittsensing.herokuapp.com/"
+        # image = "image.png"
+
+        [[params.projects.sections.rows]]
+        # title = "Section 1, Row 2"
+
+        [[params.projects.sections.rows.items]]
+        title = "Next-generation internet services"
+        description = "Needs a description!"
+        #url = "#"
+        # image = "image.png"
+
+        #[[params.projects.sections]]
+        # title = "Section 2"
+
+        #[[params.projects.sections.rows]]
+        # title = "Section 2, Row 1"
+
+        #[[params.projects.sections.rows.items]]
+        #title = "Card title 1"
+        #description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
+        #url = "#"
+        # image = "image.png"
+
+
+    [params.footer]
+        copyright = "University of Pittsburgh Resilient Systems and Societies Lab"
+
+
+

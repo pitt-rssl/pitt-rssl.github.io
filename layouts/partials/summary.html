@@ -1,0 +1,30 @@
+
+      <div class="row">
+
+        <div class="col-md-8 mb-5">
+          <h2>{{ i18n "about" }}</h2>
+          <hr>
+          {{ range .Site.Params.summary.description.items }}
+          <p>{{ .description }}</p>
+          {{ end }}
+          <a class="btn btn-primary btn-lg" href="{{ .Site.Params.summary.url }}">{{ i18n "more" }} &raquo;</a>
+        </div>
+
+        <div class="col-md-4 mb-5">
+          <h2>{{ i18n "contact" }}</h2>
+          <hr>
+          {{ with .Site.Params.summary.contact }}
+          <address>
+            <strong>{{ .name }}</strong>
+            <br>{{ .address1 }}
+            <br>{{ .address2 }}
+            <br>{{ .address3 }}
+            <br>
+          </address>
+          <address>
+            Email: {{ .email }}
+          </address>
+          {{ end }}
+        </div>
+
+      </div><!-- /.row -->
