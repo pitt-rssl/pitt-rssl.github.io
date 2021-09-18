@@ -17,11 +17,13 @@
           </div>
           {{ end }}
           {{ range .items }}
-          <div class="col-md-4 mb-5">
+          <div class="col-md-3 mb-5">
             <div class="card h-100">
-              <img class="card-img-top" src="{{ if .image }}{{ .Site.BaseURL }}assets/images/{{ .image }}{{ else }}https://placehold.it/300x200{{ end }}" alt="">
+            <div class="embed-responsive embed-responsive-1by1">
+              <img class="card-img-top embed-responsive-item" style="object-fit: cover" src="{{ .Site.BaseURL }}/assets/images/{{ if .image }}{{ .image }}{{ else }}{{ "placeholder.png" }}{{ end }}">
+            </div>
               <div class="card-body">
-                <h4 class="card-title"><a href="{{ .url }}">{{ .name }}</a></h4>
+                <h4 class="card-title">{{ if .url }}<a href="{{ .url }}">{{ .name }}</a>{{ else }}{{ .name }}{{ end }}</h4>
                 <p class="card-text">{{ .research_interests }}</p>
               </div>
             </div>

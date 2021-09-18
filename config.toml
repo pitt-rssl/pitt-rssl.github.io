@@ -23,7 +23,7 @@ theme = "business-frontpage"
         url = "#"
         [[params.navbar.nav]]
         name = "Publications"
-        url = "#"
+        url = "/publications/"
 
     [params.header]
         name = "University of Pittsburgh Resilient Systems and Societies Lab"
@@ -85,33 +85,66 @@ theme = "business-frontpage"
         #url = "#"
         # image = "image.png"
 
-        #[[params.projects.sections]]
-        # title = "Section 2"
-
-        #[[params.projects.sections.rows]]
-        # title = "Section 2, Row 1"
-
-        #[[params.projects.sections.rows.items]]
-        #title = "Card title 1"
-        #description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque sequi doloribus."
-        #url = "#"
-        # image = "image.png"
-
     [params.people]
         [[params.people.sections]]
-        title = "Faculty"
+        title = "Current Members"
 
         [[params.people.sections.rows]]
         # title = "Section 1, Row 1"
 
         [[params.people.sections.rows.items]]
-        name = "Amy Babay"
+        name = "Dr. Amy Babay"
         research_interests = "Intrusion tolerance, overlay networks, critical infrastructure, real-time internet services, community environmental monitoring networks"
         url = "https://sites.pitt.edu/~babay"
-        # image = "image.png"
+        image = "babay_photo_small.jpg"
+
+        [[params.people.sections.rows.items]]
+        name="Maher Khan"
+
+        [[params.people.sections.rows.items]]
+        name="Abhishek Viswanathan"
+
+        [[params.people.sections.rows.items]]
+        name="Jian Liu"
+
+        [[params.people.sections.rows.items]]
+        name="Aren Alyahya"
+
+        [[params.people.sections.rows.items]]
+        name="Manal Alshahrani"
+
+        [[params.people.sections.rows.items]]
+        name="Shixiang Long"
+
+        [[params.people.sections.rows.items]]
+        name="Benjamin Gilby"
+
+        [[params.people.sections.rows.items]]
+        name="Ge Zeng"
+
+    [params.publications]
+        [[params.publications.sections]]
+        title = "Publications"
+
+        [[params.publications.sections.items]]
+        title = "Toward Intrusion Tolerance as a Service: Confidentiality in Partially Cloud-Based BFT Systems"
+        authors = "Maher Khan and Amy Babay"
+        venue = "IEEE/IFIP DSN 2021"
+        venue_link = "http://2021.dsn.org/"
+        bibtex = "https://sites.pitt.edu/~babay/bib/dsn21_confidentialBFT.bib"
+        ieee = "https://ieeexplore.ieee.org/document/9505127"
+        pdf = "https://sites.pitt.edu/~babay/pubs/dsn21_confidentialBFT.pdf"
+        note = "Best paper runner up."
+
+        [[params.publications.sections.items]]
+        title = "Identifying Vulnerable Critical Infrastructure Zones in Smart Cities"
+        authors = "Abdulaziz Alqahtani, David Tipper, Katrina Kelly-Pitou and Amy Babay"
+        venue = "DRCN 2020"
+        venue_link = "https://www.drcn2020.polimi.it/"
+        bibtex = "https://sites.pitt.edu/~babay/bib/drcn20_zones.bib"
+        ieee = "https://ieeexplore.ieee.org/abstract/document/9089374"
+
 
     [params.footer]
         copyright = "University of Pittsburgh Resilient Systems and Societies Lab"
-
-
 
