@@ -15,7 +15,33 @@
     <!-- Page Content -->
     <div class="container p-4">
 
-      {{ partial "publications.html" . }}
+    <h1>{{ .Title }}</h1>
+    <hr>
+
+      {{ range .Params.publist.sections }}
+
+        {{ range .items }}
+            <p><b>{{ .title }}</b><br>
+            <i>{{ .authors }}</i><br>
+            <b>{{ if .venue_link }}<a href="{{ .venue_link}}">{{ .venue }}</a>{{ else }}{{ .venue }}{{ end }}</b><br>
+
+            {{ if .bibtex }}
+            [<a href="{{ .bibtex }}">BibTeX</a>]
+            {{ end }}
+
+            {{ if .ieee }}
+            [<a href="{{ .ieee }}">IEEEXplore</a>]
+            {{ end }}
+
+            {{ if .pdf }}
+            [<a href="{{ .pdf }}">PDF</a>]
+            {{ end }}
+
+            {{ if .note }}
+            <b>{{ .note }}</b>
+            {{ end }}
+        {{ end }}
+      {{ end }}
 
     </div><!-- /.container -->
 

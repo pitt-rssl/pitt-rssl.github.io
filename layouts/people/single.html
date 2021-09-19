@@ -15,7 +15,40 @@
     <!-- Page Content -->
     <div class="container p-4">
 
-      {{ partial "people.html" . }}
+    <h1>{{ .Title }}</h1>
+    <hr>
+
+      {{ range .Params.people.sections }}
+        {{ if .title }}
+        <div class="row">
+          <div class="col-md-12 mb-5">
+            <h2>{{ .title }}</h2>
+          </div>
+        </div><!-- /.row -->
+        {{ end }}
+        {{ range .rows }}
+        <div class="row">
+          {{ if .title }}
+          <div class="col-md-12 mb-5">
+            <h2>{{ .title }}</h2>
+          </div>
+          {{ end }}
+          {{ range .items }}
+          <div class="col-md-3 mb-5">
+            <div class="card h-100">
+            <div class="embed-responsive embed-responsive-1by1">
+              <img class="card-img-top embed-responsive-item" style="object-fit: cover" src="{{ .Site.BaseURL }}/assets/images/{{ if .image }}{{ .image }}{{ else }}{{ "placeholder.png" }}{{ end }}">
+            </div>
+              <div class="card-body">
+                <h4 class="card-title">{{ if .url }}<a href="{{ .url }}">{{ .name }}</a>{{ else }}{{ .name }}{{ end }}</h4>
+                <p class="card-text">{{ .research_interests }}</p>
+              </div>
+            </div>
+          </div>
+          {{ end }}
+        </div><!-- /.row -->
+        {{ end }}
+      {{ end }}
 
     </div><!-- /.container -->
 
