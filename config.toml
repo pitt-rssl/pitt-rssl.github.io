@@ -26,8 +26,8 @@ theme = "business-frontpage"
         url = "/publications/"
 
     [params.header]
-        name = "University of Pittsburgh Resilient Systems and Societies Lab"
-        tagline = "We are a computer systems research group at the University of Pittsburgh School of Computing and Information, with a focus on dependable infrastructure. We aim to make the networked systems our society relies on resilient to failures and attacks, and to develop new network technologies that help bring people together."
+        name = "Resilient Systems and Societies Lab"
+        tagline = "Making our societies and the infrastructure they depend on stronger through cutting-edge distributed systems research."
 
     [params.summary]
         url = "#"
@@ -35,7 +35,7 @@ theme = "business-frontpage"
         [params.summary.description]
 
         [[params.summary.description.items]]
-        description = "We do research on distributed systems and networks."
+        description = "We are a computer systems research group in the University of Pittsburgh School of Computing and Information, with a focus on dependable infrastructure. We aim to make the networked systems our society relies on resilient to failures and attacks, and to develop new network technologies that help bring people together."
 
         [[params.summary.description.items]]
         description = "It's pretty cool."
