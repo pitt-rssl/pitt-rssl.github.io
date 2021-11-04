@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+
+  <head>
+
+    
+    <title>RSSLab @ Pitt</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="A computer systems research lab at Pitt, focusing on distributed systems and networks.">
+    <meta name="author" content="University of Pittsburgh Resilient Systems and Societies Lab">
+
+    <link rel="shortcut icon" href="favicon.ico">
+
+    
+    <link rel="stylesheet" href="http://pitt-rssl.github.ioassets/vendor/bootstrap/css/bootstrap.min.css">
+    
+    <link rel="stylesheet" href="http://pitt-rssl.github.ioassets/css/business-frontpage.css">
+
+
+  </head>
+
+  <body>
+
+    
+    
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background-color:#003594">
+      <div class="container">
+        
+        <a class="navbar-brand" href="/">RSSLab @ Pitt</a>
+        
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            
+            <li class="nav-item active">
+              <a class="nav-link" href="/">Home<span class="sr-only">(current)</span></a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="/news/">News</a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="/people/">People</a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="/research/">Research</a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="/publications/">Publications</a>
+            </li>
+            
+          </ul>
+        </div>
+
+      </div>
+    </nav>
+
+
+    
+    <div class="container p-4">
+
+    <h1>Research</h1>
+    <hr>
+    
+    <p>Research in the Resilient Systems and Societies Lab (RSSLab) focuses on
+distributed systems and computer networks, with an emphasis on making the
+networked systems our society relies on resilient to failures and attacks, and
+enabling new networked applications.</p>
+<p>Some examples of our ongoing projects are below.</p>
+
+
+    
+        <h2>Resilience to compound threats</h2>
+        <p><p>The joint threats of increasingly frequent and severe natural disasters due to
+climate change and increasingly prevalent and sophisticated cyberattacks pose a
+serious threat to national critical infrastructure. We are investigating
+compound threats to critical infrastructure systems, where damage due to a
+natural disaster is compounded by opportunistic cyberattacks that attempt to
+capitalize on that damage to further disrupt the system or delay the recovery
+process. The goals of this project are to develop frameworks to model the
+effects of these compound threats, and to design new system architectures that
+can better withstand this combination of natural disasters and malicious
+attacks.</p>
+<p>We are especially interested in compound threats to the power grid, and are
+exploring techniques to build resilience in the context of the <a href="http://www.spire-sys.org">Spire
+Intrusion-Tolerant SCADA System for the Power Grid</a>, which
+is developed by the <a href="http://www.rsslab.io">Pitt RSSLab</a> and the <a href="http://www.dsn.jhu.edu">Johns Hopkins
+University Distributed Systems and Networks (DSN) Lab</a>.</p>
+<p>This project is currently funded through the <a href="https://www.serdp-estcp.org/">DoD Strategic Environmental
+Research and Development Program (SERDP)</a>, in a
+ongoing project &ldquo;Severe Impact Resilience: Framework for Adaptive Compound
+Threats&rdquo;.</p>
+</p>
+    
+        <h2>Intrusion tolerance as a service</h2>
+        <p><p>Intrusion tolerance, or the ability to operate correctly even
+while partially compromised by an attacker, is an increasingly
+important concern for high value systems.
+However, despite a long line of work on using Byzantine Fault Tolerant (BFT)
+replication to enable such high value systems to withstand successful
+intrusions, such solutions are still challenging to deploy in practice and
+require a high level of expertise to manage.</p>
+<p>Further complicating deployment, we have shown that tolerating sophisticated
+<em>network attacks</em> in addition to intrusions requires that system management and
+state be distributed across at least three distinct geographic sites (see
+<a href="http://www.dsn.jhu.edu/papers/scada_DSN_2018.pdf">&ldquo;Network-Attack-Resilient Intrusion-Tolerant SCADA for the Power
+Grid&rdquo;</a>).</p>
+<p>We are developing new techniques to make intrusion-tolerant systems easier to
+deploy by offloading part of the system management to a cloud service provider.
+However, this raises significant <em>confidentiality</em> concerns, as sharing
+sensitive data and/or proprietary algorithms with a cloud provider may not be
+an acceptable trade-off.</p>
+<p>Our recent work, <a href="https://sites.pitt.edu/~babay/pubs/dsn21_confidentialBFT.pdf">&ldquo;Toward Intrusion Tolerance as a Service: Confidentiality in
+Partially Cloud-Based BFT
+Systems&rdquo;</a>,
+published in <a href="https://dsn2021.ntu.edu.tw/">DSN 2021</a> has shown how we can make
+use of cloud sites to host additional system replicas <em>without needing to
+expose any unencrypted state</em> to the cloud.</p>
+<p>We are continuing to work to develop new architectures to further simplify
+system management and meet the needs of a broad range of applications.</p>
+</p>
+    
+        <h2>Community-based environmental monitoring</h2>
+        <p><p>We are working to develop tools and socio-technical approaches to make environmental monitoring and collective sense-making of environmental data at the community level more accessible and sustainable.</p>
+<p>Between July and October 2021, we completed a <a href="https://pittsensing.herokuapp.com/">pilot
+project</a> in the Nine Mile Run Watershed, in
+collaboration with <a href="https://upstreampgh.org/">Upstream Pittsburgh</a>.
+Participants deployed low cost environmental sensors at their homes and had the
+option to participate in a Slack-based discussion group to collectively make
+sense of the data.</p>
+<p>Abhishek Viswanathan was recently awarded a <a href="https://www.yearofdataandsociety.pitt.edu/">Year of Data and
+Society</a> grant, together with Amy
+Babay and Rosta Farzan, to engage community members in analyzing the data
+produced in the pilot project through a series of workshops focused on data
+analysis, data visualization, and data storytelling.</p>
+</p>
+    
+        <h2>Next generation internet services</h2>
+        <p><p>We are investigating techniques to support emerging internet applications with
+demanding combinations of performance, reliability, and/or resilience
+requirements. Our current work focuses on scalable support for highly
+interactive applications (collaborative VR, immersive multiplayer gaming,
+remote manipulation).</p>
+<p>This work uses <a href="http://www.dsn.jhu.edu/papers/structured_overlays_icdcs2017_vision.pdf">structured overlay
+networks</a>
+that run on top of the internet to implement custom routing and transport
+protocols to enable new services that are not well supported on the native
+internet.</p>
+</p>
+    
+
+    </div>
+
+    
+    
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Business Frontpage theme ported to Hugo by <a class="text-white" href="https://github.com/cowboysmall-tools/hugo-business-frontpage-theme" target="_blank">CowboySmall</a></p>
+        <p class="m-0 text-center text-white">Copyright &copy; University of Pittsburgh Resilient Systems and Societies Lab 2021</p>
+      </div>
+    </footer>
+
+
+    
+    
+    <script src="http://pitt-rssl.github.ioassets/vendor/jquery/jquery.min.js"></script>
+    <script src="http://pitt-rssl.github.ioassets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    
+
+
+  </body>
+
+</html>
