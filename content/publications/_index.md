@@ -26,4 +26,10 @@ layout = "single"
     bibtex = "https://sites.pitt.edu/~babay/bib/drcn20_zones.bib"
     ieee = "https://ieeexplore.ieee.org/abstract/document/9089374"
     date = "2020-03-24"
+
 +++
+
+See Amy Babay's [full publication
+list](https://sites.pitt.edu/~babay/publications.html) for relevant
+publications prior to forming the RSSLab.
+

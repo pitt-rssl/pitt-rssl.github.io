@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+
+    {{ partial "head.html" . }}
+
+  </head>
+
+  <body>
+
+    {{ partial "navbar.html" . }}
+
+    <!-- Page Content -->
+    <div class="container p-4">
+
+    <h1>{{ .Title }}</h1>
+    <hr>
+    
+    {{ .Content }}
+
+    {{ range .Pages }}
+        <p><b>{{ dateFormat "January 2, 2006" .Date }}</b>: {{ .Content }}
+        </p>
+    {{ end }}
+
+    </div><!-- /.container -->
+
+    {{ partial "footer.html" . }}
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+
+</html>
