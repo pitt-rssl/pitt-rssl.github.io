@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://pitt-rssl.github.io/research/compound_threats/</loc>
+    <loc>http://rsslab.io/research/compound_threats/</loc>
   </url><url>
-    <loc>http://pitt-rssl.github.io/research/it_service/</loc>
+    <loc>http://rsslab.io/research/it_service/</loc>
   </url><url>
-    <loc>http://pitt-rssl.github.io/research/env_monitoring/</loc>
+    <loc>http://rsslab.io/research/env_monitoring/</loc>
   </url><url>
-    <loc>http://pitt-rssl.github.io/research/next_gen_net/</loc>
+    <loc>http://rsslab.io/research/next_gen_net/</loc>
   </url><url>
-    <loc>http://pitt-rssl.github.io/</loc>
+    <loc>http://rsslab.io/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>http://pitt-rssl.github.io/news/yodas2021/</loc>
+    <loc>http://rsslab.io/news/yodas2021/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://pitt-rssl.github.io/news/</loc>
+    <loc>http://rsslab.io/news/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://pitt-rssl.github.io/news/dsn2021/</loc>
+    <loc>http://rsslab.io/news/dsn2021/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://pitt-rssl.github.io/news/esdi2021/</loc>
+    <loc>http://rsslab.io/news/esdi2021/</loc>
     <lastmod>2021-05-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://pitt-rssl.github.io/news/bpa_dsn2021/</loc>
+    <loc>http://rsslab.io/news/bpa_dsn2021/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://pitt-rssl.github.io/categories/</loc>
+    <loc>http://rsslab.io/categories/</loc>
   </url><url>
-    <loc>http://pitt-rssl.github.io/people/</loc>
+    <loc>http://rsslab.io/people/</loc>
   </url><url>
-    <loc>http://pitt-rssl.github.io/publications/</loc>
+    <loc>http://rsslab.io/publications/</loc>
   </url><url>
-    <loc>http://pitt-rssl.github.io/research/</loc>
+    <loc>http://rsslab.io/research/</loc>
   </url><url>
-    <loc>http://pitt-rssl.github.io/tags/</loc>
+    <loc>http://rsslab.io/tags/</loc>
   </url>
 </urlset>

@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RSSLab @ Pitt</title>
-    <link>http://pitt-rssl.github.io/</link>
+    <link>http://rsslab.io/</link>
     <description>Recent content on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://pitt-rssl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://rsslab.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resilience to compound threats</title>
-      <link>http://pitt-rssl.github.io/research/compound_threats/</link>
+      <link>http://rsslab.io/research/compound_threats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pitt-rssl.github.io/research/compound_threats/</guid>
+      <guid>http://rsslab.io/research/compound_threats/</guid>
       <description>We are investigating how to model critical infrastructure resilience to compound threats involving natural disasters and opportunistic cyberattacks, and how to design new system architectures to better withstand these threats.</description>
     </item>
     
     <item>
       <title>Intrusion tolerance as a service</title>
-      <link>http://pitt-rssl.github.io/research/it_service/</link>
+      <link>http://rsslab.io/research/it_service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pitt-rssl.github.io/research/it_service/</guid>
+      <guid>http://rsslab.io/research/it_service/</guid>
       <description>We are developing new techniques to make intrusion-tolerant systems easier to deploy by offloading part of the system management to a cloud service provider.</description>
     </item>
     
     <item>
       <title>Community-based environmental monitoring</title>
-      <link>http://pitt-rssl.github.io/research/env_monitoring/</link>
+      <link>http://rsslab.io/research/env_monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pitt-rssl.github.io/research/env_monitoring/</guid>
+      <guid>http://rsslab.io/research/env_monitoring/</guid>
       <description>We are working to develop tools and socio-technical approaches to make environmental monitoring and collective sense-making of environmental data at the community level more accessible.</description>
     </item>
     
     <item>
       <title>Next generation internet services</title>
-      <link>http://pitt-rssl.github.io/research/next_gen_net/</link>
+      <link>http://rsslab.io/research/next_gen_net/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://pitt-rssl.github.io/research/next_gen_net/</guid>
+      <guid>http://rsslab.io/research/next_gen_net/</guid>
       <description>We are investigating techniques to support emerging internet applications with demanding combinations of performance, reliability, and/or resilience requirements. Our current work focuses on scalable support for highly interactive applications (collaborative VR, immersive multiplayer gaming, remote manipulation).</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://pitt-rssl.github.io/news/yodas2021/</link>
+      <link>http://rsslab.io/news/yodas2021/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://pitt-rssl.github.io/news/yodas2021/</guid>
+      <guid>http://rsslab.io/news/yodas2021/</guid>
       <description>Abhishek Viswanathan is awarded an $8,000 Year of Data and Society grant for his project &amp;ldquo;Enriching Citizen-Science Data Using Context, Feedback, and Community-Oriented Communication&amp;rdquo;.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://pitt-rssl.github.io/news/dsn2021/</link>
+      <link>http://rsslab.io/news/dsn2021/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://pitt-rssl.github.io/news/dsn2021/</guid>
+      <guid>http://rsslab.io/news/dsn2021/</guid>
       <description>Maher Khan presents his paper &amp;ldquo;Toward Intrusion Tolerance as a Service: Confidentiality in Partially Cloud-Based BFT Systems&amp;rdquo; at DSN 2021.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://pitt-rssl.github.io/news/esdi2021/</link>
+      <link>http://rsslab.io/news/esdi2021/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://pitt-rssl.github.io/news/esdi2021/</guid>
+      <guid>http://rsslab.io/news/esdi2021/</guid>
       <description>Abhishek Viswanathan is selected to participate in the Engaged Scholarship Development Initiative (ESDI) Summer Design Intensive.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://pitt-rssl.github.io/news/bpa_dsn2021/</link>
+      <link>http://rsslab.io/news/bpa_dsn2021/</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://pitt-rssl.github.io/news/bpa_dsn2021/</guid>
+      <guid>http://rsslab.io/news/bpa_dsn2021/</guid>
       <description>The paper &amp;ldquo;Toward Intrusion Tolerance as a Service: Confidentiality in Partially Cloud-Based BFT Systems&amp;rdquo; by Maher Khan and Amy Babay is one of three nominees for the Best Paper Award at DSN 2021.</description>
     </item>
     

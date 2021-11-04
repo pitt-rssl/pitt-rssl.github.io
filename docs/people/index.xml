@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>People on RSSLab @ Pitt</title>
-    <link>http://pitt-rssl.github.io/people/</link>
+    <link>http://rsslab.io/people/</link>
     <description>Recent content in People on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://pitt-rssl.github.io/people/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://rsslab.io/people/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
