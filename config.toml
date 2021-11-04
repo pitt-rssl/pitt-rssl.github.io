@@ -1,5 +1,5 @@
 # Page settings
-baseURL = "http://rsslab.io/"
+baseURL = "https://rsslab.io/"
 languageCode = "en-us"
 title = "RSSLab @ Pitt"
 theme = "business-frontpage"
