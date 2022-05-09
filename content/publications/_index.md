@@ -8,6 +8,14 @@ layout = "single"
     title = "Publications"
 
     [[publist.sections.items]]
+    title = "Data-Centric Analysis of Compound Threats to Critical Infrastructure Control Systems"
+    authors = "Sahiti Bommareddy, Benjamin Gilby, Maher Khan, Imes Chiu, Mathaios Pantelli, John W. van de Lindt, Linton Wells II, Yair Amir, and Amy Babay"
+    venue = "DSN Workshop on Data-Centric Dependability and Security (DCDS)"
+    venue_link = "http://2021.dsn.org/"
+    pdf = "https://sites.pitt.edu/~babay/pubs/dcds22_compoundThreats.pdf"
+    date = "2022-06-27"
+
+    [[publist.sections.items]]
     title = "Toward Intrusion Tolerance as a Service: Confidentiality in Partially Cloud-Based BFT Systems"
     authors = "Maher Khan and Amy Babay"
     venue = "IEEE/IFIP DSN 2021"
