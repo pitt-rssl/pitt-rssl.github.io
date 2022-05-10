@@ -6,7 +6,7 @@ theme = "business-frontpage"
 
 [params]
     author = "University of Pittsburgh Resilient Systems and Societies Lab"
-    description = "A computer systems research lab at Pitt, focusing on distributed systems and networks."
+    description = "A computer systems research lab at the University of Pittsburgh, focusing on distributed systems and networks."
 
     [params.navbar]
         name = "RSSLab @ Pitt"
