@@ -8,7 +8,6 @@ layout = "single"
     title = "Faculty and PhD Students"
 
     [[people.sections.rows]]
-    # title = "Section 1, Row 1"
 
     [[people.sections.rows.items]]
     name = "Dr. Amy Babay"
@@ -35,15 +34,11 @@ layout = "single"
     title = "Masters Students"
 
     [[people.sections.rows]]
-    # title = "Section 1, Row 1"
 
     [[people.sections.rows.items]]
     name="Aren Alyahya"
     research_interests = "Overlay networks, real-time internet services"
-
-    [[people.sections.rows.items]]
-    name="Manal Alshahrani"
-    research_interests = "Overlay networks, real-time internet services"
+    image = "aren_alyahya.jpg"
 
     [[people.sections.rows.items]]
     name="Shixiang Long"
@@ -54,7 +49,7 @@ layout = "single"
     title = "Undergraduate Students"
 
     [[people.sections.rows]]
-    # title = "Section 1, Row 1"
+
     [[people.sections.rows.items]]
     name="Benjamin Gilby"
     research_interests = "Intrusion tolerance, critical infrastructure"
@@ -64,5 +59,12 @@ layout = "single"
     name="Ge Zeng"
     research_interests = "Overlay networks, real-time internet services"
     image = "ge_zeng.jpg"
+
+[alumni]
+    [[alumni.items]]
+    name="Manal Alshahrani"
+    research_interests = "Overlay networks, real-time internet services"
+    degree="MS in Information Science"
+    year=2021
 
 +++

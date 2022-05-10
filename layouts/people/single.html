@@ -50,6 +50,16 @@
         {{ end }}
       {{ end }}
 
+        <div class="row">
+          <div class="col-md-12 mb-5">
+            <h2>Alumni</h2>
+          </div>
+          <ul>
+          {{ range .Params.alumni.items }}
+          <li>{{ if .url }}<a href="{{ .url }}">{{ .name }}</a>{{ else }}{{ .name }}{{ end }}{{ if .degree }}, {{ .degree }}{{ end }}{{ if .year }}, {{ .year }}{{ end }}</li>
+          {{ end }}
+          </ul>
+        </div>
     </div><!-- /.container -->
 
     {{ partial "footer.html" . }}
