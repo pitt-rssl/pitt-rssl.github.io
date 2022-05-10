@@ -23,7 +23,11 @@
         {{ range .items }}
             <p><b>{{ .title }}</b><br>
             <i>{{ .authors }}</i><br>
-            <b>{{ if .venue_link }}<a href="{{ .venue_link}}">{{ .venue }}</a>{{ else }}{{ .venue }}{{ end }}</b><br>
+            <b>{{ if .venue_link }}<a href="{{ .venue_link}}">{{ .venue }}</a>
+               {{ else }}{{ .venue }}{{ end }} 
+
+               {{ if .venue_year_link }}(<a href="{{ .venue_year_link }}">{{ .venue_abbrev }} {{ dateFormat "2006" .date }}</a>)
+               {{ else }}({{ .venue_abbrev }} {{ dateFormat "2006" .date }}){{ end }}</b><br>
 
             {{ if .bibtex }}
             [<a href="{{ .bibtex }}">BibTeX</a>]
