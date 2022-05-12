@@ -13,7 +13,7 @@ layout = "single"
     name = "Dr. Amy Babay"
     research_interests = "Intrusion tolerance, overlay networks, critical infrastructure, real-time internet services, community environmental monitoring networks"
     url = "https://sites.pitt.edu/~babay"
-    image = "babay_photo_small.jpg"
+    image = "babay_photo_small.png"
 
     [[people.sections.rows.items]]
     name="Maher Khan"
