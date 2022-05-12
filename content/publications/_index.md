@@ -17,6 +17,17 @@ layout = "single"
     date = "2022-06-27"
 
     [[publist.sections.items]]
+    title = "The Impact of COVID-19 on Communication Network Outages"
+    authors = "Faris Alotibi, Alekhya Velagapudi, Akshay Madan, Kuheli Sai, Abhishek Viswanathan, Amy Babay, David Tipper, and Prashant Krishnamurthy"
+    venue = "International Conference on the Design of Reliable Communication Networks"
+    venue_abbrev = "DRCN"
+    venue_link = "https://www.drcn2022.upc.edu/"
+    venue_year_link = "https://www.drcn2022.upc.edu/"
+    bibtex = "https://sites.pitt.edu/~babay/bib/drcn22_covid.bib"
+    ieee = "https://ieeexplore.ieee.org/abstract/document/9758011"
+    date = "2022-03-29"
+
+    [[publist.sections.items]]
     title = "Toward Intrusion Tolerance as a Service: Confidentiality in Partially Cloud-Based BFT Systems"
     authors = "Maher Khan and Amy Babay"
     venue = "IEEE/IFIP International Conference on Dependable Systems and Networks"
