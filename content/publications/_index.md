@@ -9,7 +9,7 @@ layout = "single"
 
     [[publist.sections.items]]
     title = "Data-Centric Analysis of Compound Threats to Critical Infrastructure Control Systems"
-    authors = "Sahiti Bommareddy, Benjamin Gilby, Maher Khan, Imes Chiu, Mathaios Pantelli, John W. van de Lindt, Linton Wells II, Yair Amir, and Amy Babay"
+    authors = "Sahiti Bommareddy, Benjamin Gilby, Maher Khan, Imes Chiu, Mathaios Panteli, John W. van de Lindt, Linton Wells II, Yair Amir, and Amy Babay"
     venue = "DSN Workshop on Data-Centric Dependability and Security"
     venue_abbrev = "DCDS"
     venue_link = "http://dcds.lasige.di.fc.ul.pt/"
