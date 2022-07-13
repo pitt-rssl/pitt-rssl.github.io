@@ -25,11 +25,6 @@ layout = "single"
     research_interests = "Citizen science, community-based environmental monitoring, social sense-making"
     image = "abhishek_viswanathan.png"
 
-    [[people.sections.rows.items]]
-    name="Jian Liu"
-    research_interests = "Overlay networks, real-time internet services"
-    image = "jian_liu.jpg"
-
     [[people.sections]]
     title = "Masters Students"
 
@@ -44,6 +39,11 @@ layout = "single"
     name="Shixiang Long"
     research_interests = "Intrusion tolerance, proactive recovery"
     image = "shixiang_long.jpg"
+
+    [[people.sections.rows.items]]
+    name="Jian Liu"
+    research_interests = "Overlay networks, real-time internet services"
+    image = "jian_liu.jpg"
 
     [[people.sections]]
     title = "Undergraduate Students"
