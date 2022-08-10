@@ -27,6 +27,9 @@ theme = "business-frontpage"
         [[params.navbar.nav]]
         name = "Publications"
         url = "/publications/"
+        [[params.navbar.nav]]
+        name = "Funding"
+        url = "/funding/"
 
     [params.header]
         name = "Resilient Systems and Societies Lab"

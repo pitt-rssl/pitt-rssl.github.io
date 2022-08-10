@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+
+    {{ partial "head.html" . }}
+
+  </head>
+
+  <body>
+
+    {{ partial "navbar.html" . }}
+
+    <!-- Page Content -->
+    <div class="container p-4">
+
+    <h1>{{ .Title }}</h1>
+    <hr>
+    
+    {{ .Content }}
+
+    <ul>
+    {{ range .Pages }}
+        <li><b><a href="{{ .Permalink }}">{{ .Title }}</a></b><br>
+        <a href="{{ .Params.funder_link }}">{{ .Params.funder }}</a>
+        </li>
+    {{ end }}
+    </ul>
+
+    </div><!-- /.container -->
+
+    {{ partial "footer.html" . }}
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+
+</html>
