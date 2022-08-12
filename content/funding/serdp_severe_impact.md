@@ -8,25 +8,25 @@ funder = "Strategic Environmental Research and Development Program (SERDP)"
 funder_link = "https://www.serdp-estcp.org/"
 +++
 
-**PI: Dr. Imes Chiu, Construction Engineering Research Lab - Eng Res. Dev. Center - USACE**
+**PI: [Dr. Imes Chiu](https://www.linkedin.com/in/imes-chiu-4a1ba0/), Construction Engineering Research Lab - Eng Res. Dev. Center - USACE**
 
 [SERDP Project RC20-1138](https://www.serdp-estcp.org/Program-Areas/Resource-Conservation-and-Resiliency/Infrastructure-Resiliency/Vulnerability-and-Impact-Assessment/RC20-1138)
 
 ### Team
 - University of Pittsburgh
-    - Dr. Amy Babay
-    - Maher Khan
-    - Benjamin Gilby
-    - Derrick Hicks
+    - [Dr. Amy Babay](https://sites.pitt.edu/~babay/)
+    - [Maher Khan](https://www.linkedin.com/in/maherkhan/)
+    - [Benjamin Gilby](https://www.linkedin.com/in/benjygilby/)
+    - [Derrick Hicks](https://www.linkedin.com/in/derrick-hicks-ab8722208/)
 - Johns Hopkins University
-    - Dr. Yair Amir
-    - Sahiti Bommareddy
+    - [Dr. Yair Amir](https://www.cs.jhu.edu/~yairamir/)
+    - [Sahiti Bommareddy](https://www.cs.jhu.edu/~sahiti/)
 - Colorado State University
-    - Dr. John W. van de Lindt
+    - [Dr. John W. van de Lindt](https://www.engr.colostate.edu/ce/john-van-de-lindt/)
 - University of Cyprus
-    - Dr. Mathaios Panteli
+    - [Dr. Mathaios Panteli](https://ucyweb.ucy.ac.cy/dir/en/component/comprofiler/userprofile/mpante06)
 - George Mason University
-    - Dr. Linton Wells II
+    - [Dr. Linton Wells II](https://ise.gmu.edu/faculty-directory/linton-wells-ii/)
 
 ### Overview
 
