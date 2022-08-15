@@ -23,7 +23,7 @@
     <ul>
     {{ range .Pages }}
         <li><b><a href="{{ .Permalink }}">{{ .Title }}</a></b><br>
-        <a href="{{ .Params.funder_link }}">{{ .Params.funder }}</a>
+        <em><a href="{{ .Params.funder_link }}">{{ .Params.funder }}</a></em>
         </li>
     {{ end }}
     </ul>
