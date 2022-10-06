@@ -6,7 +6,7 @@
     <description>Recent content on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rsslab.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rsslab.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resilience to compound threats</title>
       <link>https://rsslab.io/research/compound_threats/</link>
@@ -31,7 +31,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rsslab.io/funding/yods_data_storytelling/</guid>
-      <description>We are investigating how data storytelling workshops can be used to support local residents&#39; understanding of air quality data and how it can be used to advocate for change.</description>
+      <description>We are investigating how data storytelling workshops can be used to support local residents&amp;rsquo; understanding of air quality data and how it can be used to advocate for change.</description>
     </item>
     
     <item>
@@ -59,6 +59,24 @@
       
       <guid>https://rsslab.io/research/next_gen_net/</guid>
       <description>We are investigating techniques to support emerging internet applications with demanding combinations of performance, reliability, and/or resilience requirements. Our current work focuses on scalable support for highly interactive applications (collaborative VR, immersive multiplayer gaming, remote manipulation).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rsslab.io/news/students2022/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsslab.io/news/students2022/</guid>
+      <description>Aren Alyahya and Huzaifah Nadeem have joined the RSSLab as new PhD students!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rsslab.io/news/dcds_pres2022/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsslab.io/news/dcds_pres2022/</guid>
+      <description>Benjamin Gilby presents our paper &amp;ldquo;Data-Centric Analysis of Compound Threats to Critical Infrastructure Control Systems&amp;rdquo; at the DCDS 2022 workshop co-located with DSN. Check out the teaser video and full presentation!</description>
     </item>
     
     <item>
