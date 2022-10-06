@@ -48,7 +48,7 @@ layout = "single"
     [[people.sections.rows.items]]
     name="Chao Shi"
     research_interests = "Overlay networks, real-time internet services"
-    image = "placeholder.png"
+    image = "chao_shi.jpg"
 
     [[people.sections]]
     title = "Undergraduate Students"
