@@ -58,7 +58,7 @@ layout = "single"
     [[people.sections.rows.items]]
     name="Wentao Wu"
     research_interests = "Overlay networks, real-time internet services"
-    image = "placeholder.png"
+    image = "wentao_wu.jpg"
 
 
 [alumni]
