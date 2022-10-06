@@ -10,12 +10,13 @@ funder_link = "https://www.serdp-estcp.org/"
 
 **PI: [Dr. Imes Chiu](https://www.linkedin.com/in/imes-chiu-4a1ba0/), Construction Engineering Research Lab - Eng Res. Dev. Center - USACE**
 
-[SERDP Project RC20-1138](https://www.serdp-estcp.org/Program-Areas/Resource-Conservation-and-Resiliency/Infrastructure-Resiliency/Vulnerability-and-Impact-Assessment/RC20-1138)
+[SERDP Project RC20-1138](https://www.serdp-estcp.org/projects/details/97a0ffaf-6410-4b14-ae66-8ebe961156f3/rc20-1138-project-overview)
 
 ### Team
 - University of Pittsburgh
     - [Dr. Amy Babay](https://sites.pitt.edu/~babay/)
     - [Maher Khan](https://www.linkedin.com/in/maherkhan/)
+    - [Huzaifah Nadeem](https://huzaifahnadeem.github.io/)
     - [Benjamin Gilby](https://www.linkedin.com/in/benjygilby/)
     - [Derrick Hicks](https://www.linkedin.com/in/derrick-hicks-ab8722208/)
 - Johns Hopkins University
