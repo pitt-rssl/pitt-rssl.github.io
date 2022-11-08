@@ -8,6 +8,16 @@ layout = "single"
     title = "Publications"
 
     [[publist.sections.items]]
+    title = "Real-Time Byzantine Resilient Power Grid Infrastructure: Evaluation and Trade-offs"
+    authors = "Sahiti Bommareddy, Maher Khan, David J Sebastian Cardenas, Carl Miller, Christopher Bonebrake, Yair Amir, and Amy Babay"
+    venue = "RTSS Workshop on Explainability of Real-Time Systems and their Analysis"
+    venue_abbrev = "ERSA"
+    venue_link = "https://sites.google.com/view/ersa22"
+    venue_year_link = "https://sites.google.com/view/ersa22"
+    pdf = "https://sites.pitt.edu/~babay/pubs/ersa22_realtimeByz.pdf"
+    date = "2022-12-05"
+
+    [[publist.sections.items]]
     title = "Data-Centric Analysis of Compound Threats to Critical Infrastructure Control Systems"
     authors = "Sahiti Bommareddy, Benjamin Gilby, Maher Khan, Imes Chiu, Mathaios Panteli, John W. van de Lindt, Linton Wells II, Yair Amir, and Amy Babay"
     venue = "DSN Workshop on Data-Centric Dependability and Security"

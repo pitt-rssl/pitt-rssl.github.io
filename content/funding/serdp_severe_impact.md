@@ -56,13 +56,21 @@ Specifically, we aim to:
 
 ### Publications
 
+- **Real-Time Byzantine Resilient Power Grid Infrastructure: Evaluation and Trade-offs**  
+  *Sahiti Bommareddy, Maher Khan, David J Sebastian Cardenas, Carl Miller,
+  Christopher Bonebrake, Yair Amir, and Amy Babay*  
+  [IEEE RTSS Workshop on Explainability of Real-Time Systems and their
+  Analysis](https://sites.google.com/view/ersa22) ([ERSA
+  2022](https://sites.google.com/view/ersa22))  
+  [[PDF](https://sites.pitt.edu/~babay/pubs/ersa22_realtimeByz.pdf)]
+
 - **Data-Centric Analysis of Compound Threats to Critical Infrastructure Control Systems**  
   *Sahiti Bommareddy, Benjamin Gilby, Maher Khan, Imes Chiu, Mathaios Panteli,
   John W. van de Lindt, Linton Wells II, Yair Amir, and Amy Babay*  
   [IEEE/IFIP DSN Workshop on Data-Centric Dependability and
   Security](http://dcds.lasige.di.fc.ul.pt/) ([DCDS
   2022](http://dcds.lasige.di.fc.ul.pt/2022))  
-  [[PDF](https://sites.pitt.edu/~babay/pubs/dcds22_compoundThreats.pdf")]
+  [[PDF](https://sites.pitt.edu/~babay/pubs/dcds22_compoundThreats.pdf)]
    [[IEEEXplore](https://ieeexplore.ieee.org/abstract/document/9833853)]
 
 ### Presentations
