@@ -6,7 +6,7 @@
     <description>Recent content on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rsslab.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rsslab.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resilience to compound threats</title>
       <link>https://rsslab.io/research/compound_threats/</link>
@@ -59,6 +59,15 @@
       
       <guid>https://rsslab.io/research/next_gen_net/</guid>
       <description>We are investigating techniques to support emerging internet applications with demanding combinations of performance, reliability, and/or resilience requirements. Our current work focuses on scalable support for highly interactive applications (collaborative VR, immersive multiplayer gaming, remote manipulation).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rsslab.io/news/spire2023/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsslab.io/news/spire2023/</guid>
+      <description>Spire 2.0 is released! This release includes two new components: Confidential Spire, and Spire for the Substation. Confidential Spire, led by Maher Khan, is the open-source release of the hybrid architecture described in our DSN 2021 paper. This architecture makes it possible to use cloud sites for resilience without exposing any application data to the cloud provider.</description>
     </item>
     
     <item>

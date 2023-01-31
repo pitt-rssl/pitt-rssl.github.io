@@ -6,7 +6,16 @@
     <description>Recent content in News on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rsslab.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rsslab.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://rsslab.io/news/spire2023/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsslab.io/news/spire2023/</guid>
+      <description>Spire 2.0 is released! This release includes two new components: Confidential Spire, and Spire for the Substation. Confidential Spire, led by Maher Khan, is the open-source release of the hybrid architecture described in our DSN 2021 paper. This architecture makes it possible to use cloud sites for resilience without exposing any application data to the cloud provider.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://rsslab.io/news/students2022/</link>
