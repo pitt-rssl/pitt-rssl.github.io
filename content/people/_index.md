@@ -35,33 +35,23 @@ layout = "single"
     research_interests = "Intrusion tolerance, critical infrastructure"
     image = "huzaifah_nadeem.jpg"
 
-    [[people.sections]]
-    title = "Masters Students"
+[alumni]
 
-    [[people.sections.rows]]
-
-    [[people.sections.rows.items]]
-    name="Shixiang Long"
-    research_interests = "Intrusion tolerance, proactive recovery"
-    image = "shixiang_long.jpg"
-
-    [[people.sections.rows.items]]
+    [[alumni.items]]
     name="Chao Shi"
     research_interests = "Overlay networks, real-time internet services"
-    image = "chao_shi.jpg"
+    degree = "MS in Telecommunications"
 
-    [[people.sections]]
-    title = "Undergraduate Students"
+    [[alumni.items]]
+    name="Shixiang Long"
+    research_interests = "Intrusion tolerance, proactive recovery"
+    degree = "MS in Information Science"
 
-    [[people.sections.rows]]
-
-    [[people.sections.rows.items]]
+    [[alumni.items]]
     name="Wentao Wu"
     research_interests = "Overlay networks, real-time internet services"
-    image = "wentao_wu.jpg"
+    degree = "BS in Computer Science"
 
-
-[alumni]
     [[alumni.items]]
     name="Benjamin Gilby"
     research_interests = "Intrusion tolerance, critical infrastructure"
