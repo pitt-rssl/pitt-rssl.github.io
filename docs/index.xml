@@ -6,7 +6,7 @@
     <description>Recent content on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rsslab.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rsslab.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resilience to compound threats</title>
       <link>https://rsslab.io/research/compound_threats/</link>
@@ -59,6 +59,15 @@
       
       <guid>https://rsslab.io/research/next_gen_net/</guid>
       <description>We are investigating techniques to support emerging internet applications with demanding combinations of performance, reliability, and/or resilience requirements. Our current work focuses on scalable support for highly interactive applications (collaborative VR, immersive multiplayer gaming, remote manipulation).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rsslab.io/news/embedded2023/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsslab.io/news/embedded2023/</guid>
+      <description>The art exhibition Embedded by Petra Floyd is installed on the ground floor of the Pitt Information Sciences Building. This exhibit was sponsored by the Year of Data and Society, as part of Abhishek Viswanathan&amp;rsquo;s project &amp;ldquo;Enriching Citizen-Science Data Using Context, Feedback, and Community-Oriented Communication&amp;rdquo;.</description>
     </item>
     
     <item>
