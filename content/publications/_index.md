@@ -8,6 +8,16 @@ layout = "single"
     title = "Publications"
 
     [[publist.sections.items]]
+    title = "Making Intrusion Tolerance Accessible: A Cloud-Based Hybrid Management Approach to Deploying Resilient Systems"
+    authors = "Maher Khan and Amy Babay"
+    venue = "IEEE International Symposium on Reliable Distributed Systems"
+    venue_abbrev = "SRDS"
+    venue_link = "https://srds-conference.org/"
+    pdf = "https://sites.pitt.edu/~babay/pubs/srds23_hybridIT.pdf"
+    date = "2023-09-27"
+    note = "(Accepted)"
+
+    [[publist.sections.items]]
     title = "Real-Time Byzantine Resilient Power Grid Infrastructure: Evaluation and Trade-offs"
     authors = "Sahiti Bommareddy, Maher Khan, David J Sebastian Cardenas, Carl Miller, Christopher Bonebrake, Yair Amir, and Amy Babay"
     venue = "RTSS Workshop on Explainability of Real-Time Systems and their Analysis"
