@@ -6,7 +6,16 @@
     <description>Recent content in News on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rsslab.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rsslab.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://rsslab.io/news/srds2023/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rsslab.io/news/srds2023/</guid>
+      <description>The paper &amp;ldquo;Making Intrusion Tolerance Accessible: A Cloud-Based Hybrid Management Approach to Deploying Resilient Systems&amp;rdquo; by Maher Khan and Amy Babay is accepted to SRDS 2023.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://rsslab.io/news/embedded2023/</link>
