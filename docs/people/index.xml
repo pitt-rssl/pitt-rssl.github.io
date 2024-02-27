@@ -5,6 +5,7 @@
     <link>https://rsslab.io/people/</link>
     <description>Recent content in People on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rsslab.io/people/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://rsslab.io/people/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

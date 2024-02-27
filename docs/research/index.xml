@@ -5,42 +5,35 @@
     <link>https://rsslab.io/research/</link>
     <description>Recent content in Research on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rsslab.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://rsslab.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resilience to compound threats</title>
       <link>https://rsslab.io/research/compound_threats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/research/compound_threats/</guid>
       <description>We are investigating how to model critical infrastructure resilience to compound threats involving natural disasters and opportunistic cyberattacks, and how to design new system architectures to better withstand these threats.</description>
     </item>
-    
     <item>
       <title>Intrusion tolerance as a service</title>
       <link>https://rsslab.io/research/it_service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/research/it_service/</guid>
       <description>We are developing new techniques to make intrusion-tolerant systems easier to deploy by offloading part of the system management to a cloud service provider.</description>
     </item>
-    
     <item>
       <title>Community-based environmental monitoring</title>
       <link>https://rsslab.io/research/env_monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/research/env_monitoring/</guid>
       <description>We are working to develop tools and socio-technical approaches to make environmental monitoring and collective sense-making of environmental data at the community level more accessible.</description>
     </item>
-    
     <item>
       <title>Next generation internet services</title>
       <link>https://rsslab.io/research/next_gen_net/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/research/next_gen_net/</guid>
       <description>We are investigating techniques to support emerging internet applications with demanding combinations of performance, reliability, and/or resilience requirements. Our current work focuses on scalable support for highly interactive applications (collaborative VR, immersive multiplayer gaming, remote manipulation).</description>
     </item>
-    
   </channel>
 </rss>

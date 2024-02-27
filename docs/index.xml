@@ -6,150 +6,119 @@
     <description>Recent content on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rsslab.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rsslab.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resilience to compound threats</title>
       <link>https://rsslab.io/research/compound_threats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/research/compound_threats/</guid>
       <description>We are investigating how to model critical infrastructure resilience to compound threats involving natural disasters and opportunistic cyberattacks, and how to design new system architectures to better withstand these threats.</description>
     </item>
-    
     <item>
       <title>Severe Impact Resilience: Assessment Framework for Adaptive Compound Threats</title>
       <link>https://rsslab.io/funding/serdp_severe_impact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/funding/serdp_severe_impact/</guid>
       <description>We are investigating how to model critical infrastructure resilience to compound threats involving natural disasters and opportunistic cyberattacks, and how to design new system architectures to better withstand these threats.</description>
     </item>
-    
     <item>
       <title>Enriching Citizen-Science data using context, feedback and community-oriented communication</title>
       <link>https://rsslab.io/funding/yods_data_storytelling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/funding/yods_data_storytelling/</guid>
       <description>We are investigating how data storytelling workshops can be used to support local residents&amp;rsquo; understanding of air quality data and how it can be used to advocate for change.</description>
     </item>
-    
     <item>
       <title>Intrusion tolerance as a service</title>
       <link>https://rsslab.io/research/it_service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/research/it_service/</guid>
       <description>We are developing new techniques to make intrusion-tolerant systems easier to deploy by offloading part of the system management to a cloud service provider.</description>
     </item>
-    
     <item>
       <title>Community-based environmental monitoring</title>
       <link>https://rsslab.io/research/env_monitoring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/research/env_monitoring/</guid>
       <description>We are working to develop tools and socio-technical approaches to make environmental monitoring and collective sense-making of environmental data at the community level more accessible.</description>
     </item>
-    
     <item>
       <title>Next generation internet services</title>
       <link>https://rsslab.io/research/next_gen_net/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/research/next_gen_net/</guid>
       <description>We are investigating techniques to support emerging internet applications with demanding combinations of performance, reliability, and/or resilience requirements. Our current work focuses on scalable support for highly interactive applications (collaborative VR, immersive multiplayer gaming, remote manipulation).</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://rsslab.io/news/srds2023/</link>
       <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/news/srds2023/</guid>
       <description>The paper &amp;ldquo;Making Intrusion Tolerance Accessible: A Cloud-Based Hybrid Management Approach to Deploying Resilient Systems&amp;rdquo; by Maher Khan and Amy Babay is accepted to SRDS 2023.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://rsslab.io/news/embedded2023/</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/news/embedded2023/</guid>
       <description>The art exhibition Embedded by Petra Floyd is installed on the ground floor of the Pitt Information Sciences Building. This exhibit was sponsored by the Year of Data and Society, as part of Abhishek Viswanathan&amp;rsquo;s project &amp;ldquo;Enriching Citizen-Science Data Using Context, Feedback, and Community-Oriented Communication&amp;rdquo;.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://rsslab.io/news/spire2023/</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/news/spire2023/</guid>
       <description>Spire 2.0 is released! This release includes two new components: Confidential Spire, and Spire for the Substation. Confidential Spire, led by Maher Khan, is the open-source release of the hybrid architecture described in our DSN 2021 paper. This architecture makes it possible to use cloud sites for resilience without exposing any application data to the cloud provider.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://rsslab.io/news/students2022/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/news/students2022/</guid>
       <description>Aren Alyahya and Huzaifah Nadeem have joined the RSSLab as new PhD students!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://rsslab.io/news/dcds_pres2022/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/news/dcds_pres2022/</guid>
       <description>Benjamin Gilby presents our paper &amp;ldquo;Data-Centric Analysis of Compound Threats to Critical Infrastructure Control Systems&amp;rdquo; at the DCDS 2022 workshop co-located with DSN. Check out the teaser video and full presentation!</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://rsslab.io/news/dcds2022/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/news/dcds2022/</guid>
       <description>Our paper &amp;ldquo;Data-Centric Analysis of Compound Threats to Critical Infrastructure Control Systems&amp;rdquo; is accepted to the DCDS 2022 workshop co-located with DSN.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://rsslab.io/news/yodas2021/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/news/yodas2021/</guid>
       <description>Abhishek Viswanathan is awarded an $8,000 Year of Data and Society grant for his project &amp;ldquo;Enriching Citizen-Science Data Using Context, Feedback, and Community-Oriented Communication&amp;rdquo;.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://rsslab.io/news/dsn2021/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/news/dsn2021/</guid>
       <description>Maher Khan presents his paper &amp;ldquo;Toward Intrusion Tolerance as a Service: Confidentiality in Partially Cloud-Based BFT Systems&amp;rdquo; at DSN 2021.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://rsslab.io/news/esdi2021/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/news/esdi2021/</guid>
       <description>Abhishek Viswanathan is selected to participate in the Engaged Scholarship Development Initiative (ESDI) Summer Design Intensive.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://rsslab.io/news/bpa_dsn2021/</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/news/bpa_dsn2021/</guid>
       <description>The paper &amp;ldquo;Toward Intrusion Tolerance as a Service: Confidentiality in Partially Cloud-Based BFT Systems&amp;rdquo; by Maher Khan and Amy Babay is one of three nominees for the Best Paper Award at DSN 2021.</description>
     </item>
-    
   </channel>
 </rss>

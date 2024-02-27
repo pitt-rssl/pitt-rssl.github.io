@@ -5,24 +5,21 @@
     <link>https://rsslab.io/funding/</link>
     <description>Recent content in Funding on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rsslab.io/funding/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://rsslab.io/funding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Severe Impact Resilience: Assessment Framework for Adaptive Compound Threats</title>
       <link>https://rsslab.io/funding/serdp_severe_impact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/funding/serdp_severe_impact/</guid>
       <description>We are investigating how to model critical infrastructure resilience to compound threats involving natural disasters and opportunistic cyberattacks, and how to design new system architectures to better withstand these threats.</description>
     </item>
-    
     <item>
       <title>Enriching Citizen-Science data using context, feedback and community-oriented communication</title>
       <link>https://rsslab.io/funding/yods_data_storytelling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://rsslab.io/funding/yods_data_storytelling/</guid>
       <description>We are investigating how data storytelling workshops can be used to support local residents&amp;rsquo; understanding of air quality data and how it can be used to advocate for change.</description>
     </item>
-    
   </channel>
 </rss>
