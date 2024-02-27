@@ -13,9 +13,10 @@ layout = "single"
     venue = "IEEE International Symposium on Reliable Distributed Systems"
     venue_abbrev = "SRDS"
     venue_link = "https://srds-conference.org/"
+    bibtex = "https://sites.pitt.edu/~babay/bib/srds23_itService.bib"
+    ieee = "https://ieeexplore.ieee.org/abstract/document/10419323"
     pdf = "https://sites.pitt.edu/~babay/pubs/srds23_hybridIT.pdf"
     date = "2023-09-27"
-    note = "(Accepted)"
 
     [[publist.sections.items]]
     title = "Real-Time Byzantine Resilient Power Grid Infrastructure: Evaluation and Trade-offs"
