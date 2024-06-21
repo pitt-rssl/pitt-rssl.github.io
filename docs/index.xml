@@ -6,7 +6,7 @@
     <description>Recent content on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rsslab.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resilience to compound threats</title>
@@ -49,6 +49,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/research/next_gen_net/</guid>
       <description>We are investigating techniques to support emerging internet applications with demanding combinations of performance, reliability, and/or resilience requirements. Our current work focuses on scalable support for highly interactive applications (collaborative VR, immersive multiplayer gaming, remote manipulation).</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://rsslab.io/news/maher2024/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://rsslab.io/news/maher2024/</guid>
+      <description>Maher Khan graduates with his PhD in Computer Science, after successfully defending his thesis &amp;ldquo;Simplifying the deployment of intrusion-tolerant systems by leveraging cloud resources&amp;rdquo;. Congratulations Maher!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://rsslab.io/news/3mt2024/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://rsslab.io/news/3mt2024/</guid>
+      <description>Maher Khan wins the Pitt SCI Three Minute Thesis (3MT) competition, presenting his work on intrusion tolerance in distributed systems.</description>
     </item>
     <item>
       <title></title>
