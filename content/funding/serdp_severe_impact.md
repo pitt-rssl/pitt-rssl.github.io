@@ -2,8 +2,8 @@
 title = "Severe Impact Resilience: Assessment Framework for Adaptive Compound Threats"
 type = "page"
 layout = "single"
-weight = 1
-summary = "We are investigating how to model critical infrastructure resilience to compound threats involving natural disasters and opportunistic cyberattacks, and how to design new system architectures to better withstand these threats."
+date = "2023-09-30"
+summary = "This project investigates how to model critical infrastructure resilience to compound threats involving natural disasters and opportunistic cyberattacks, and how to design new system architectures to better withstand these threats."
 funder = "Strategic Environmental Research and Development Program (SERDP)"
 funder_link = "https://www.serdp-estcp.org/"
 +++
@@ -55,6 +55,12 @@ Specifically, we aim to:
 - Validate the framework in a testbed environment.
 
 ### Publications
+
+- **A Resilience Assessment Framework for Coupled Power and Communication Infrastructure**  
+  *Mohamed Lotfi, Mathaios Panteli, Linton Wells II, Kathryn Blackmond Laskey, John W. van de Lindt, Yair Amir, Amy Babay, Imes Chiu*  
+  [IEEE Power & Energy Society General Meeting](https://pes-gm.org/) ([PESGM
+  2023](https://pes-gm.org/))  
+  [[IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10252712)]
 
 - **Real-Time Byzantine Resilient Power Grid Infrastructure: Evaluation and Trade-offs**  
   *Sahiti Bommareddy, Maher Khan, David J Sebastian Cardenas, Carl Miller,

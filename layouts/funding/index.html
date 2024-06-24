@@ -22,8 +22,9 @@
 
     <ul>
     {{ range .Pages }}
-        <li><b><a href="{{ .Permalink }}">{{ .Title }}</a></b><br>
-        <em><a href="{{ .Params.funder_link }}">{{ .Params.funder }}</a></em>
+        <li style="margin:10px"><b><a href="{{ .Permalink }}">{{ .Title }}</a></b><br>
+        <em><a href="{{ .Params.funder_link }}">{{ .Params.funder }}</a></em><br>
+        {{ .Params.summary }}
         </li>
     {{ end }}
     </ul>

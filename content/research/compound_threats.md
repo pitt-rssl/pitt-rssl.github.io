@@ -23,7 +23,6 @@ Intrusion-Tolerant SCADA System for the Power Grid](http://www.spire-sys.org), w
 is developed by the [Pitt RSSLab](http://www.rsslab.io) and the [Johns Hopkins
 University Distributed Systems and Networks (DSN) Lab](http://www.dsn.jhu.edu).
 
-This project is currently funded through the [DoD Strategic Environmental
-Research and Development Program (SERDP)](https://www.serdp-estcp.org/), in a
-ongoing project "Severe Impact Resilience: Framework for Adaptive Compound
-Threats".
+This project has been funded through the [DoD Strategic Environmental Research
+and Development Program (SERDP)](https://www.serdp-estcp.org/), in the project
+"Severe Impact Resilience: Framework for Adaptive Compound Threats".

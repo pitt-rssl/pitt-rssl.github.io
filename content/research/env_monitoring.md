@@ -15,7 +15,7 @@ Participants deployed low cost environmental sensors at their homes and had the
 option to participate in a Slack-based discussion group to collectively make
 sense of the data. 
 
-Abhishek Viswanathan was recently awarded a [Year of Data and
+Abhishek Viswanathan was awarded a [Year of Data and
 Society](https://www.yearofdataandsociety.pitt.edu/) grant, together with Amy
 Babay and Rosta Farzan, to engage community members in analyzing the data
 produced in the pilot project through a series of workshops focused on data
