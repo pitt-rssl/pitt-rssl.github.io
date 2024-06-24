@@ -6,7 +6,7 @@
     <description>Recent content on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rsslab.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resilience to compound threats</title>
@@ -14,20 +14,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/research/compound_threats/</guid>
       <description>We are investigating how to model critical infrastructure resilience to compound threats involving natural disasters and opportunistic cyberattacks, and how to design new system architectures to better withstand these threats.</description>
-    </item>
-    <item>
-      <title>Severe Impact Resilience: Assessment Framework for Adaptive Compound Threats</title>
-      <link>https://rsslab.io/funding/serdp_severe_impact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rsslab.io/funding/serdp_severe_impact/</guid>
-      <description>We are investigating how to model critical infrastructure resilience to compound threats involving natural disasters and opportunistic cyberattacks, and how to design new system architectures to better withstand these threats.</description>
-    </item>
-    <item>
-      <title>Enriching Citizen-Science data using context, feedback and community-oriented communication</title>
-      <link>https://rsslab.io/funding/yods_data_storytelling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rsslab.io/funding/yods_data_storytelling/</guid>
-      <description>We are investigating how data storytelling workshops can be used to support local residents&amp;rsquo; understanding of air quality data and how it can be used to advocate for change.</description>
     </item>
     <item>
       <title>Intrusion tolerance as a service</title>
@@ -51,6 +37,27 @@
       <description>We are investigating techniques to support emerging internet applications with demanding combinations of performance, reliability, and/or resilience requirements. Our current work focuses on scalable support for highly interactive applications (collaborative VR, immersive multiplayer gaming, remote manipulation).</description>
     </item>
     <item>
+      <title>University of Pittsburgh Cyber Energy Center</title>
+      <link>https://rsslab.io/funding/doe_cyber_energy/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://rsslab.io/funding/doe_cyber_energy/</guid>
+      <description>The Cyber Energy Center is dedicated to developing cybersecurity solutions and addressing the needs of the evolving cyber-energy workforce. The RSSLab&amp;rsquo;s research in the center focuses on using digital twins to support intrusion tolerance in power grid systems.</description>
+    </item>
+    <item>
+      <title>Seamless Linux-Based Intrusion-Tolerant Networks</title>
+      <link>https://rsslab.io/funding/dla_overlays/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://rsslab.io/funding/dla_overlays/</guid>
+      <description>This project investigates how to enable legacy applications to use intrusion-tolerant overlay networks. This enables resilient communication for such applications (ensuring messages are delivered in a timely manner, even when the network is under attack), without requiring any changes to the application.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://rsslab.io/news/cec2024/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://rsslab.io/news/cec2024/</guid>
+      <description>The University of Pittsburgh Cyber Energy Center, funded by the Department of Energy held its industry advisory board kick-off meeting. We are excited to conduct research on the practical integration of intrusion tolerance in energy systems and participate in education efforts as part of the center!</description>
+    </item>
+    <item>
       <title></title>
       <link>https://rsslab.io/news/maher2024/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
@@ -63,6 +70,13 @@
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/3mt2024/</guid>
       <description>Maher Khan wins the Pitt SCI Three Minute Thesis (3MT) competition, presenting his work on intrusion tolerance in distributed systems.</description>
+    </item>
+    <item>
+      <title>Severe Impact Resilience: Assessment Framework for Adaptive Compound Threats</title>
+      <link>https://rsslab.io/funding/serdp_severe_impact/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://rsslab.io/funding/serdp_severe_impact/</guid>
+      <description>This project investigates how to model critical infrastructure resilience to compound threats involving natural disasters and opportunistic cyberattacks, and how to design new system architectures to better withstand these threats.</description>
     </item>
     <item>
       <title></title>
@@ -84,6 +98,13 @@
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/spire2023/</guid>
       <description>Spire 2.0 is released! This release includes two new components: Confidential Spire, and Spire for the Substation. Confidential Spire, led by Maher Khan, is the open-source release of the hybrid architecture described in our DSN 2021 paper. This architecture makes it possible to use cloud sites for resilience without exposing any application data to the cloud provider.</description>
+    </item>
+    <item>
+      <title>Enriching Citizen-Science data using context, feedback and community-oriented communication</title>
+      <link>https://rsslab.io/funding/yods_data_storytelling/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://rsslab.io/funding/yods_data_storytelling/</guid>
+      <description>This project investigates how data storytelling workshops can be used to support local residents&amp;rsquo; understanding of air quality data and how it can be used to advocate for change.</description>
     </item>
     <item>
       <title></title>

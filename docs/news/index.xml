@@ -6,8 +6,15 @@
     <description>Recent content in News on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rsslab.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://rsslab.io/news/cec2024/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://rsslab.io/news/cec2024/</guid>
+      <description>The University of Pittsburgh Cyber Energy Center, funded by the Department of Energy held its industry advisory board kick-off meeting. We are excited to conduct research on the practical integration of intrusion tolerance in energy systems and participate in education efforts as part of the center!</description>
+    </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/maher2024/</link>

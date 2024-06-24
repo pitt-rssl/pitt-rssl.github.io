@@ -4,10 +4,6 @@
   <url>
     <loc>https://rsslab.io/research/compound_threats/</loc>
   </url><url>
-    <loc>https://rsslab.io/funding/serdp_severe_impact/</loc>
-  </url><url>
-    <loc>https://rsslab.io/funding/yods_data_storytelling/</loc>
-  </url><url>
     <loc>https://rsslab.io/research/it_service/</loc>
   </url><url>
     <loc>https://rsslab.io/research/env_monitoring/</loc>
@@ -15,16 +11,31 @@
     <loc>https://rsslab.io/research/next_gen_net/</loc>
   </url><url>
     <loc>https://rsslab.io/</loc>
-    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rsslab.io/funding/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rsslab.io/funding/doe_cyber_energy/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rsslab.io/funding/dla_overlays/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rsslab.io/news/cec2024/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rsslab.io/news/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rsslab.io/news/maher2024/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rsslab.io/news/</loc>
-    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://rsslab.io/news/3mt2024/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rsslab.io/funding/serdp_severe_impact/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rsslab.io/news/srds2023/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
@@ -34,6 +45,9 @@
   </url><url>
     <loc>https://rsslab.io/news/spire2023/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rsslab.io/funding/yods_data_storytelling/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rsslab.io/news/students2022/</loc>
     <lastmod>2022-08-29T00:00:00+00:00</lastmod>
@@ -57,8 +71,6 @@
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rsslab.io/categories/</loc>
-  </url><url>
-    <loc>https://rsslab.io/funding/</loc>
   </url><url>
     <loc>https://rsslab.io/people/</loc>
   </url><url>
