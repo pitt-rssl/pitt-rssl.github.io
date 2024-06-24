@@ -33,7 +33,7 @@ support mission-critical military applications:
 - Building support for legacy applications. We will develop an interceptor
   capability to funnel legacy application communication through the
   intrusion-tolerant overlay, without modifying the application.
-- Creating a deployment stragegy and addressing concept. We will develop a
+- Creating a deployment strategy and addressing concept. We will develop a
   strategy to enable intrusion-tolerant communication between components that
   need it, while not interfering with other existing communications.
 
