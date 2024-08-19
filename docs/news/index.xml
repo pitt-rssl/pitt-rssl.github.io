@@ -6,8 +6,15 @@
     <description>Recent content in News on RSSLab @ Pitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rsslab.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://rsslab.io/news/srds2024/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://rsslab.io/news/srds2024/</guid>
+      <description>Our papers &amp;ldquo;Tolerating Compound Threats in Critical Infrastructure Systems&amp;rdquo; and &amp;ldquo;Availability Analysis of Network-Attack-Resilient Byzantine Fault Tolerant Systems&amp;rdquo; have been accepted to SRDS 2024.</description>
+    </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/cec2024/</link>
@@ -28,13 +35,6 @@
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/3mt2024/</guid>
       <description>Maher Khan wins the Pitt SCI Three Minute Thesis (3MT) competition, presenting his work on intrusion tolerance in distributed systems.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://rsslab.io/news/srds2024/</link>
-      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://rsslab.io/news/srds2024/</guid>
-      <description>Our papers &amp;ldquo;Tolerating Compound Threats in Critical Infrastructure Systems&amp;rdquo; and &amp;ldquo;Availability Analysis of Network-Attack-Resilient Byzantine Fault Tolerant Systems&amp;rdquo; have been accepted to SRDS 2024.</description>
     </item>
     <item>
       <title></title>
