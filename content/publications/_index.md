@@ -8,11 +8,30 @@ layout = "single"
     title = "Publications"
 
     [[publist.sections.items]]
+    title = "Tolerating Compound Threats in Critical Infrastructure Control Systems"
+    authors = "Sahiti Bommareddy, Maher Khan, Huzaifah Nadeem, Benjamin Gilby, Imes Chiu, John W. van de Lindt, Omar Nofal, Mathaios Panteli, Linton Wells II, Yair Amir, and Amy Babay"
+    venue = "IEEE International Symposium on Reliable Distributed Systems"
+    venue_abbrev = "SRDS"
+    venue_link = "https://srds-conference.org/"
+    pdf = "https://sites.pitt.edu/~babay/pubs/srds24_compoundThreats.pdf"
+    date = "2023-10-01"
+
+    [[publist.sections.items]]
+    title = "Availability Analysis of Network-Attack-Resilient Byzantine Fault Tolerant Systems"
+    authors = "Aren Alyahya, David Tipper, and Amy Babay"
+    venue = "IEEE International Symposium on Reliable Distributed Systems"
+    venue_abbrev = "SRDS"
+    venue_link = "https://srds-conference.org/"
+    pdf = "https://sites.pitt.edu/~babay/pubs/srds24_availability.pdf"
+    date = "2023-10-01"
+
+    [[publist.sections.items]]
     title = "Making Intrusion Tolerance Accessible: A Cloud-Based Hybrid Management Approach to Deploying Resilient Systems"
     authors = "Maher Khan and Amy Babay"
     venue = "IEEE International Symposium on Reliable Distributed Systems"
     venue_abbrev = "SRDS"
     venue_link = "https://srds-conference.org/"
+    venue_year_link = "https://srds-conference.org/2023/"
     bibtex = "https://sites.pitt.edu/~babay/bib/srds23_itService.bib"
     ieee = "https://ieeexplore.ieee.org/abstract/document/10419323"
     pdf = "https://sites.pitt.edu/~babay/pubs/srds23_hybridIT.pdf"
