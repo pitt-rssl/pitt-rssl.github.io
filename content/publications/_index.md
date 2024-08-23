@@ -14,7 +14,7 @@ layout = "single"
     venue_abbrev = "SRDS"
     venue_link = "https://srds-conference.org/"
     pdf = "https://sites.pitt.edu/~babay/pubs/srds24_compoundThreats.pdf"
-    date = "2023-10-01"
+    date = "2024-10-01"
 
     [[publist.sections.items]]
     title = "Availability Analysis of Network-Attack-Resilient Byzantine Fault Tolerant Systems"
@@ -23,7 +23,7 @@ layout = "single"
     venue_abbrev = "SRDS"
     venue_link = "https://srds-conference.org/"
     pdf = "https://sites.pitt.edu/~babay/pubs/srds24_availability.pdf"
-    date = "2023-10-01"
+    date = "2024-10-01"
 
     [[publist.sections.items]]
     title = "Making Intrusion Tolerance Accessible: A Cloud-Based Hybrid Management Approach to Deploying Resilient Systems"
