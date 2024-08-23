@@ -11,6 +11,8 @@ funder_link = "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431262&Historic
 
 **PI: [Dr. Rosta Farzan](https://www.sci.pitt.edu/people/rosta-farzan), University of Pittsburgh, Department of Informatics and Networked Systems**
 
+[NSF RISE Award Number 2431262](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431262&HistoricalAwards=false)
+
 ### Team
 - University of Pittsburgh
     - Dr. Rosta Farzan

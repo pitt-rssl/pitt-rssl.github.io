@@ -56,9 +56,9 @@ Specifically, we aim to:
 
 ### Publications
 
-- **Tolerating Compound Threats in Critical Infrastructure Control Systems**
-  *Sahiti Bommareddy, Maher Khan, Huzaifah Nadeem, Benjamin Gilby, Imes Chiu, John W. van de Lindt, Omar Nofal, Mathaios Panteli, Linton Wells II, Yair Amir, and Amy Babay*
-  [IEEE International Symposium on Reliable Distributed Systems](https://srds-conference.org/) ([SRDS 2023](https://srds-conference.org/))
+- **Tolerating Compound Threats in Critical Infrastructure Control Systems**  
+  *Sahiti Bommareddy, Maher Khan, Huzaifah Nadeem, Benjamin Gilby, Imes Chiu, John W. van de Lindt, Omar Nofal, Mathaios Panteli, Linton Wells II, Yair Amir, and Amy Babay*  
+  [IEEE International Symposium on Reliable Distributed Systems](https://srds-conference.org/) ([SRDS 2023](https://srds-conference.org/))  
   [[PDF](https://sites.pitt.edu/~babay/pubs/srds24_compoundThreats.pdf)]
 
 - **A Resilience Assessment Framework for Coupled Power and Communication Infrastructure**  
