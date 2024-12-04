@@ -16,26 +16,36 @@ layout = "single"
     image = "babay_photo_small.png"
 
     [[people.sections.rows.items]]
-    name="Maher Khan"
-    research_interests = "Intrusion tolerance, critical infrastructure"
-    image = "maher_khan.jpg"
-
-    [[people.sections.rows.items]]
-    name="Abhishek Viswanathan"
-    research_interests = "Citizen science, community-based environmental monitoring, social sense-making"
-    image = "abhishek_viswanathan.png"
-
-    [[people.sections.rows.items]]
     name="Aren Alyahya"
     research_interests = "Overlay networks, real-time internet services"
     image = "aren_alyahya.jpg"
+    url = "https://www.linkedin.com/in/aren-alyahya/"
 
     [[people.sections.rows.items]]
     name="Huzaifah Nadeem"
     research_interests = "Intrusion tolerance, critical infrastructure"
     image = "huzaifah_nadeem.jpg"
+    url = "https://huzaifahnadeem.github.io/"
 
 [alumni]
+
+    [[alumni.items]]
+    name="Maher Khan"
+    research_interests = "Intrusion tolerance, critical infrastructure"
+    image = "maher_khan.jpg"
+    degree = "PhD in Computer Science"
+    thesis_link = "http://d-scholarship.pitt.edu/46227/"
+    thesis_title = "Simplifying the deployment of intrusion-tolerant systems by leveraging cloud resources"
+    year = 2024
+
+    [[alumni.items]]
+    name="Abhishek Viswanathan"
+    research_interests = "Citizen science, community-based environmental monitoring, social sense-making"
+    image = "abhishek_viswanathan.png"
+    degree = "PhD in Information Science, Telecommunications concentration"
+    thesis_link = "https://d-scholarship.pitt.edu/46795/"
+    thesis_title = "From sensors to stories: Enabling community-driven actionable data collection for air quality advocacy"
+    year = 2024
 
     [[alumni.items]]
     name="Chao Shi"
