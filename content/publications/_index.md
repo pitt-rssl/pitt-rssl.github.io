@@ -15,6 +15,7 @@ layout = "single"
     venue_link = "https://srds-conference.org/"
     pdf = "https://sites.pitt.edu/~babay/pubs/srds24_compoundThreats.pdf"
     date = "2024-10-01"
+    note = "Best paper award."
 
     [[publist.sections.items]]
     title = "Availability Analysis of Network-Attack-Resilient Byzantine Fault Tolerant Systems"
@@ -97,6 +98,6 @@ layout = "single"
 +++
 
 See Amy Babay's [full publication
-list](https://sites.pitt.edu/~babay/publications.html) for relevant
-publications prior to forming the RSSLab.
+list](https://sites.pitt.edu/~babay/publications.html) for additional relevant
+publications.
 
