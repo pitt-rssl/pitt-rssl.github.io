@@ -4,7 +4,7 @@
     <title>News on RSSLab @ Pitt</title>
     <link>https://rsslab.io/news/</link>
     <description>Recent content in News on RSSLab @ Pitt</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rsslab.io/news/index.xml" rel="self" type="application/rss+xml" />
@@ -13,119 +13,119 @@
       <link>https://rsslab.io/news/srds2024_bpa/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/srds2024_bpa/</guid>
-      <description>Our paper &amp;ldquo;Tolerating Compound Threats in Critical Infrastructure Systems&amp;rdquo; receives the Best Paper Award at SRDS 2024. Huzaifah Nadeem receives the PhD Forum Award for his work &amp;ldquo;PhD Forum: Evaluating and Designing Routing Protocols for Reliable Distributed Quantum Systems&amp;rdquo;.</description>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://sites.pitt.edu/~babay/pubs/srds24_compoundThreats.pdf&#34;&gt;&amp;ldquo;Tolerating Compound Threats in Critical Infrastructure&#xA;Systems&amp;rdquo;&lt;/a&gt;&#xA;receives the Best Paper Award at &lt;a href=&#34;https://srds-conference.org/&#34;&gt;SRDS 2024&lt;/a&gt;.&#xA;Huzaifah Nadeem receives the PhD Forum Award for his work &lt;a href=&#34;https://huzaifahnadeem.github.io/files/tmp/phd-forum-paper.pdf&#34;&gt;&amp;ldquo;PhD Forum:&#xA;Evaluating and Designing Routing Protocols for Reliable Distributed Quantum&#xA;Systems&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/srds2024/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/srds2024/</guid>
-      <description>Our papers &amp;ldquo;Tolerating Compound Threats in Critical Infrastructure Systems&amp;rdquo; and &amp;ldquo;Availability Analysis of Network-Attack-Resilient Byzantine Fault Tolerant Systems&amp;rdquo; are accepted to SRDS 2024.</description>
+      <description>&lt;p&gt;Our papers &lt;a href=&#34;https://sites.pitt.edu/~babay/pubs/srds24_compoundThreats.pdf&#34;&gt;&amp;ldquo;Tolerating Compound Threats in Critical Infrastructure Systems&amp;rdquo;&lt;/a&gt; and &lt;a href=&#34;https://sites.pitt.edu/~babay/pubs/srds24_availability.pdf&#34;&gt;&amp;ldquo;Availability Analysis of Network-Attack-Resilient Byzantine Fault Tolerant Systems&amp;rdquo;&lt;/a&gt; are accepted to &lt;a href=&#34;https://srds-conference.org/&#34;&gt;SRDS 2024&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/nsf_air/</link>
       <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/nsf_air/</guid>
-      <description>Our project CIVIC-PG Track B: Community-driven socio-technical infrastructure for data-driven air quality advocacy is funded by the National Science Foundation.</description>
+      <description>&lt;p&gt;Our project &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2431262&amp;amp;HistoricalAwards=false&#34;&gt;CIVIC-PG Track B: Community-driven socio-technical infrastructure for data-driven air quality advocacy&lt;/a&gt; is funded by the National Science Foundation.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/abhishek2024/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/abhishek2024/</guid>
-      <description>Abhishek Viswanathan successfully defends his PhD thesis in Information Science (Telecommunications concentration) &amp;ldquo;From sensors to stories: Enabling community-driven actionable data collection for air quality advocacy&amp;rdquo;. Congratulations Abhishek!</description>
+      <description>&lt;p&gt;Abhishek Viswanathan successfully defends his PhD thesis in Information Science (Telecommunications concentration) &lt;a href=&#34;http://d-scholarship.pitt.edu/46795/&#34;&gt;&amp;ldquo;From sensors to stories: Enabling community-driven actionable data collection for air quality advocacy&amp;rdquo;&lt;/a&gt;. Congratulations Abhishek!&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/cec2024/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/cec2024/</guid>
-      <description>The University of Pittsburgh Cyber Energy Center, funded by the Department of Energy held its industry advisory board kick-off meeting. We are excited to conduct research on the practical integration of intrusion tolerance in energy systems and participate in education efforts as part of the center!</description>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.engineering.pitt.edu/subsites/centers/cec/&#34;&gt;University of Pittsburgh Cyber Energy Center&lt;/a&gt;, &lt;a href=&#34;https://www.energy.gov/ceser/articles/university-based-cybersecurity-centers-receive-15-million-research-and-training&#34;&gt;funded by the Department of Energy&lt;/a&gt; held its industry advisory board kick-off meeting. We are excited to conduct research on the practical integration of intrusion tolerance in energy systems and participate in education efforts as part of the center!&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/maher2024/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/maher2024/</guid>
-      <description>Maher Khan graduates with his PhD in Computer Science, after successfully defending his thesis &amp;ldquo;Simplifying the deployment of intrusion-tolerant systems by leveraging cloud resources&amp;rdquo;. Congratulations Maher!</description>
+      <description>&lt;p&gt;Maher Khan graduates with his PhD in Computer Science, after successfully defending his thesis &lt;a href=&#34;https://d-scholarship.pitt.edu/46227/&#34;&gt;&amp;ldquo;Simplifying the deployment of intrusion-tolerant systems by leveraging cloud resources&amp;rdquo;&lt;/a&gt;. Congratulations Maher!&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/3mt2024/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/3mt2024/</guid>
-      <description>Maher Khan wins the Pitt SCI Three Minute Thesis (3MT) competition, presenting his work on intrusion tolerance in distributed systems.</description>
+      <description>&lt;p&gt;Maher Khan wins the Pitt SCI &lt;a href=&#34;https://www.sci.pitt.edu/news/three-minute-thesis-record-participation&#34;&gt;Three Minute Thesis (3MT)&lt;/a&gt; competition, presenting his work on intrusion tolerance in distributed systems.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/srds2023/</link>
       <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/srds2023/</guid>
-      <description>The paper &amp;ldquo;Making Intrusion Tolerance Accessible: A Cloud-Based Hybrid Management Approach to Deploying Resilient Systems&amp;rdquo; by Maher Khan and Amy Babay is accepted to SRDS 2023.</description>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;https://sites.pitt.edu/~babay/pubs/srds23_hybridIT.pdf&#34;&gt;&amp;ldquo;Making Intrusion Tolerance Accessible: A Cloud-Based Hybrid Management Approach to Deploying Resilient Systems&amp;rdquo;&lt;/a&gt; by Maher Khan and Amy Babay is accepted to &lt;a href=&#34;https://srds-conference.org/&#34;&gt;SRDS 2023&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/embedded2023/</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/embedded2023/</guid>
-      <description>The art exhibition Embedded by Petra Floyd is installed on the ground floor of the Pitt Information Sciences Building. This exhibit was sponsored by the Year of Data and Society, as part of Abhishek Viswanathan&amp;rsquo;s project &amp;ldquo;Enriching Citizen-Science Data Using Context, Feedback, and Community-Oriented Communication&amp;rdquo;.</description>
+      <description>&lt;p&gt;The art exhibition &lt;a href=&#34;https://pittsensing.herokuapp.com/embedded&#34;&gt;Embedded&lt;/a&gt; by&#xA;Petra Floyd is installed on the ground floor of the Pitt Information Sciences&#xA;Building. This exhibit was sponsored by the Year of Data and Society, as part of Abhishek Viswanathan&amp;rsquo;s project &lt;a href=&#34;https://rsslab.io/funding/yods_data_storytelling&#34;&gt;&amp;ldquo;Enriching Citizen-Science Data Using Context, Feedback, and&#xA;Community-Oriented&#xA;Communication&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/spire2023/</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/spire2023/</guid>
-      <description>Spire 2.0 is released! This release includes two new components: Confidential Spire, and Spire for the Substation. Confidential Spire, led by Maher Khan, is the open-source release of the hybrid architecture described in our DSN 2021 paper. This architecture makes it possible to use cloud sites for resilience without exposing any application data to the cloud provider.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.spire-sys.org&#34;&gt;Spire 2.0&lt;/a&gt; is released! This release includes two&#xA;new components: Confidential Spire, and Spire for the Substation. Confidential&#xA;Spire, led by Maher Khan, is the open-source release of the hybrid architecture&#xA;described in our &lt;a href=&#34;https://sites.pitt.edu/~babay/pubs/dsn21_confidentialBFT.pdf&#34;&gt;DSN 2021&#xA;paper&lt;/a&gt;. This&#xA;architecture makes it possible to use cloud sites for resilience without&#xA;exposing any application data to the cloud provider.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/students2022/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/students2022/</guid>
-      <description>Aren Alyahya and Huzaifah Nadeem have joined the RSSLab as new PhD students!</description>
+      <description>&lt;p&gt;Aren Alyahya and Huzaifah Nadeem have joined the RSSLab as new PhD students!&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/dcds_pres2022/</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/dcds_pres2022/</guid>
-      <description>Benjamin Gilby presents our paper &amp;ldquo;Data-Centric Analysis of Compound Threats to Critical Infrastructure Control Systems&amp;rdquo; at the DCDS 2022 workshop co-located with DSN. Check out the teaser video and full presentation!</description>
+      <description>&lt;p&gt;Benjamin Gilby presents our paper &lt;a href=&#34;https://sites.pitt.edu/~babay/pubs/dcds22_compoundThreats.pdf&#34;&gt;&amp;ldquo;Data-Centric Analysis of Compound Threats to&#xA;Critical Infrastructure Control Systems&amp;rdquo;&lt;/a&gt; at the &lt;a href=&#34;http://dcds.lasige.di.fc.ul.pt/index.html&#34;&gt;DCDS 2022&lt;/a&gt; workshop co-located with &lt;a href=&#34;https://dsn.org&#34;&gt;DSN&lt;/a&gt;. Check out the &lt;a href=&#34;https://www.youtube.com/watch?v=6kTd-3WNdJE&#34;&gt;teaser video&lt;/a&gt; and &lt;a href=&#34;https://youtube.com/watch?v=qpUX1UZCk7s&#34;&gt;full presentation&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/dcds2022/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/dcds2022/</guid>
-      <description>Our paper &amp;ldquo;Data-Centric Analysis of Compound Threats to Critical Infrastructure Control Systems&amp;rdquo; is accepted to the DCDS 2022 workshop co-located with DSN.</description>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://sites.pitt.edu/~babay/pubs/dcds22_compoundThreats.pdf&#34;&gt;&amp;ldquo;Data-Centric Analysis of Compound Threats to&#xA;Critical Infrastructure Control Systems&amp;rdquo;&lt;/a&gt; is accepted to the &lt;a href=&#34;http://dcds.lasige.di.fc.ul.pt/index.html&#34;&gt;DCDS 2022&lt;/a&gt; workshop co-located with &lt;a href=&#34;https://dsn.org&#34;&gt;DSN&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/yodas2021/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/yodas2021/</guid>
-      <description>Abhishek Viswanathan is awarded an $8,000 Year of Data and Society grant for his project &amp;ldquo;Enriching Citizen-Science Data Using Context, Feedback, and Community-Oriented Communication&amp;rdquo;.</description>
+      <description>&lt;p&gt;Abhishek Viswanathan is awarded an $8,000 &lt;a href=&#34;https://www.yearofdataandsociety.pitt.edu/&#34;&gt;Year of Data and&#xA;Society&lt;/a&gt; grant for his project&#xA;&lt;a href=&#34;https://www.yearofdataandsociety.pitt.edu/funding-opportunity/funded-projects&#34;&gt;&amp;ldquo;Enriching Citizen-Science Data Using Context, Feedback, and&#xA;Community-Oriented&#xA;Communication&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/dsn2021/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/dsn2021/</guid>
-      <description>Maher Khan presents his paper &amp;ldquo;Toward Intrusion Tolerance as a Service: Confidentiality in Partially Cloud-Based BFT Systems&amp;rdquo; at DSN 2021.</description>
+      <description>&lt;p&gt;Maher Khan presents his paper &lt;a href=&#34;https://sites.pitt.edu/~babay/pubs/dsn21_confidentialBFT.pdf&#34;&gt;&amp;ldquo;Toward Intrusion Tolerance as a Service:&#xA;Confidentiality in Partially Cloud-Based BFT&#xA;Systems&amp;rdquo;&lt;/a&gt; at &lt;a href=&#34;https://dsn2021.ntu.edu.tw/&#34;&gt;DSN&#xA;2021&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/esdi2021/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/esdi2021/</guid>
-      <description>Abhishek Viswanathan is selected to participate in the Engaged Scholarship Development Initiative (ESDI) Summer Design Intensive.</description>
+      <description>&lt;p&gt;Abhishek Viswanathan is selected to participate in the &lt;a href=&#34;https://www.yearofengagement.pitt.edu/esdi-sdi&#34;&gt;Engaged Scholarship Development Initiative (ESDI) Summer Design Intensive&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://rsslab.io/news/bpa_dsn2021/</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://rsslab.io/news/bpa_dsn2021/</guid>
-      <description>The paper &amp;ldquo;Toward Intrusion Tolerance as a Service: Confidentiality in Partially Cloud-Based BFT Systems&amp;rdquo; by Maher Khan and Amy Babay is one of three nominees for the Best Paper Award at DSN 2021.</description>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;https://sites.pitt.edu/~babay/pubs/dsn21_confidentialBFT.pdf&#34;&gt;&amp;ldquo;Toward Intrusion Tolerance as a Service: Confidentiality in&#xA;Partially Cloud-Based BFT&#xA;Systems&amp;rdquo;&lt;/a&gt; by&#xA;Maher Khan and Amy Babay is one of three nominees for the Best Paper Award at&#xA;&lt;a href=&#34;https://dsn2021.ntu.edu.tw/&#34;&gt;DSN 2021&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -75,11 +75,56 @@
     
     <div class="container p-4">
 
-    <h1></h1>
+    <h1>Mobile Control Center Support for Intrusion-Tolerant SCADA</h1>
     <hr>
 
-    <p>Our paper <a href="https://sites.pitt.edu/~babay/pubs/dcds22_compoundThreats.pdf">&ldquo;Data-Centric Analysis of Compound Threats to
-Critical Infrastructure Control Systems&rdquo;</a> is accepted to the <a href="http://dcds.lasige.di.fc.ul.pt/index.html">DCDS 2022</a> workshop co-located with <a href="https://dsn.org">DSN</a>.</p>
+    <h3 id="team">Team</h3>
+<ul>
+<li>University of Pittsburgh
+<ul>
+<li><a href="https://sites.pitt.edu/~babay/">Dr. Amy Babay</a></li>
+<li>Jack Drabenstadt</li>
+<li>Derrick Hicks</li>
+</ul>
+</li>
+<li>Spread Concepts LLC
+<ul>
+<li><a href="https://www.linkedin.com/in/yair-amir-61b58/">Dr. Yair Amir</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="overview">Overview</h3>
+<p>Compound threats, in which cyberattacks compound the damage caused by natural
+hazards are an increasing concern for critical infrastructure, with an emerging
+trend of sophisticated cyberattacks targeting infrastructure that is already
+damaged or stressed by natural threats.</p>
+<p>Our <a href="https://sites.pitt.edu/~babay/pubs/srds24_compoundThreats.pdf">recent
+research</a> has
+shown that no existing power grid Supervisory Control and Data Acquisition
+(SCADA) system architectures can adequately withstand compound threats. This
+includes fault-tolerant architectures commonly deployed in industry, as well as
+state-of-the-art intrusion-tolerant architectures designed to withstand
+cyberattacks. Natural hazards may simultaneously make large parts of the
+infrastructure unavailable, making it infeasible for any static system
+architecture to withstand these threats.</p>
+<p>There is an opportunity to improve resilience by integrating a mobile control
+center that can be deployed in the aftermath of a natural hazard. If existing
+control centers are rendered inoperable by a natural hazard (e.g. flooded by a
+hurricane), a mobile control center may be deployed to resume operations.
+However, protocols and software support for integrating a mobile control center
+into a SCADA system are missing today.</p>
+<p>This project addresses the following key gap in integrating a mobile control
+center for improved resilience of power grid SCADA:</p>
+<ul>
+<li>Designing, implementing, and demonstrating a reconfiguration protocol to
+integrate a mobile control center. Our past work developed a
+reconfiguration capability that can improve resilience in specific
+scenarios by excluding parts of the system to reduce the attack surface.
+However, this approach requires specifying the maximal topology of system
+components in advance. In this SOW, we will develop a reconfiguration
+capability that can integrate a mobile control center after the system is
+damaged by natural hazards and/or cyberattacks.</li>
+</ul>
 
 
     </div>
