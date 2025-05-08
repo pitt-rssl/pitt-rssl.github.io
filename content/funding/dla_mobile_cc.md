@@ -2,7 +2,7 @@
 title = "Mobile Control Center Support for Intrusion-Tolerant SCADA"
 type = "page"
 layout = "single"
-date = "2024-11-01"
+date = "2025-07-01"
 publishdate = "2024-11-01"
 summary = "This project investigates how to integrate a mobile control center into an intrusion-tolerant power grid SCADA system. This can enable power grid SCADA to better withstand compound threats involving natural hazards and cyberattacks."
 funder = "Defense Logistics Agency (DLA)"
