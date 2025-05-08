@@ -8,6 +8,15 @@ layout = "single"
     title = "Publications"
 
     [[publist.sections.items]]
+    title = "Using Digital Twins as an Upgrade Path for Critical Infrastructure Control Systems"
+    authors = "Huzaifah Nadeem and Amy Babay"
+    venue = "DSN Workshop on Digital Twins for Dependability, Resilience and Security"
+    venue_abbrev = "DT4DRS"
+    venue_link = "https://dt4drs2025.dieti.unina.it/"
+    pdf = "https://sites.pitt.edu/~babay/pubs/dt4drs25_upgrade.pdf"
+    date = "2025-06-23"
+
+    [[publist.sections.items]]
     title = "Tolerating Compound Threats in Critical Infrastructure Control Systems"
     authors = "Sahiti Bommareddy, Maher Khan, Huzaifah Nadeem, Benjamin Gilby, Imes Chiu, John W. van de Lindt, Omar Nofal, Mathaios Panteli, Linton Wells II, Yair Amir, and Amy Babay"
     venue = "IEEE International Symposium on Reliable Distributed Systems"
@@ -16,6 +25,7 @@ layout = "single"
     pdf = "https://sites.pitt.edu/~babay/pubs/srds24_compoundThreats.pdf"
     date = "2024-10-01"
     note = "Best paper award."
+    ieee = "https://ieeexplore.ieee.org/document/10806616"
 
     [[publist.sections.items]]
     title = "Availability Analysis of Network-Attack-Resilient Byzantine Fault Tolerant Systems"
@@ -25,6 +35,7 @@ layout = "single"
     venue_link = "https://srds-conference.org/"
     pdf = "https://sites.pitt.edu/~babay/pubs/srds24_availability.pdf"
     date = "2024-10-01"
+    ieee = "https://ieeexplore.ieee.org/document/10806615"
 
     [[publist.sections.items]]
     title = "Making Intrusion Tolerance Accessible: A Cloud-Based Hybrid Management Approach to Deploying Resilient Systems"
