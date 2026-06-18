@@ -8,6 +8,24 @@ layout = "single"
     title = "Publications"
 
     [[publist.sections.items]]
+    title = "Availability Analysis of Network-Attack-Resilient Byzantine Fault Tolerant Systems"
+    authors = "Aren Alyahya, David Tipper, and Amy Babay"
+    venue = "IEEE Transactions on Network and Service Management"
+    venue_abbrev = "TNSM"
+    venue_link = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028"
+    date = "2025-10-01"
+    ieee = "https://ieeexplore.ieee.org/document/11081952"
+
+    [[publist.sections.items]]
+    title = "Multi-dimensional Engagement for Richer Hyperlocal Citizen Science Data"
+    authors = "Abhishek Viswanathan, Vasco Xu, Amy Babay, Rosta Farzan, and Aaron Birdy"
+    venue = "Communities & Technologies"
+    venue_abbrev = "C&T"
+    venue_link = "https://2025.comtech.community/"
+    acm = "https://dl.acm.org/doi/full/10.1145/3742800.3742842"
+    date = "2025-07-20"
+
+    [[publist.sections.items]]
     title = "Using Digital Twins as an Upgrade Path for Critical Infrastructure Control Systems"
     authors = "Huzaifah Nadeem and Amy Babay"
     venue = "DSN Workshop on Digital Twins for Dependability, Resilience and Security"
@@ -15,6 +33,7 @@ layout = "single"
     venue_link = "https://dt4drs2025.dieti.unina.it/"
     pdf = "https://sites.pitt.edu/~babay/pubs/dt4drs25_upgrade.pdf"
     date = "2025-06-23"
+    ieee = "https://ieeexplore.ieee.org/document/11071557"
 
     [[publist.sections.items]]
     title = "Tolerating Compound Threats in Critical Infrastructure Control Systems"
