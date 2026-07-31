@@ -8,7 +8,7 @@ layout = "single"
     title = "Publications"
 
     [[publist.sections.items]]
-    title = "Availability Analysis of Network-Attack-Resilient Byzantine Fault Tolerant Systems"
+    title = "Availability and Cost Analysis of Network-Attack-Resilient Byzantine Fault Tolerant Systems"
     authors = "Aren Alyahya, David Tipper, and Amy Babay"
     venue = "IEEE Transactions on Network and Service Management"
     venue_abbrev = "TNSM"
