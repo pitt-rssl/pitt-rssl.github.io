@@ -8,6 +8,20 @@ layout = "single"
     title = "Publications"
 
     [[publist.sections.items]]
+    title = "Replicating and Extending SUSS: TCP Slow-Start Acceleration on AWS"
+    authors = "Anthony Gatti, Jiaao Lyu, Tanishka Deshpande, and Amy Babay"
+    venue = "ACM Internet Measurement Conference (IMC)"
+    date = "2026-01-01"
+    note = "Replicability Track, Accepted"
+
+    [[publist.sections.items]]
+    title = "Q-GUARD: Fidelity-Guaranteed Entanglement Routing with Distributed Purification Planning"
+    authors = "Anthony Gatti, Anoosha Fayyaz, Prashant Krishnamurthy, Kaushik P. Seshadreesan, and Amy Babay"
+    venue = "1st International Workshop on Networked Quantum Systems and Applications (NetQSA) at IEEE International Conference on Network Protocols (ICNP)"
+    date = "2026-01-01"
+    note = "Accepted"
+
+    [[publist.sections.items]]
     title = "Availability and Cost Analysis of Network-Attack-Resilient Byzantine Fault Tolerant Systems"
     authors = "Aren Alyahya, David Tipper, and Amy Babay"
     venue = "IEEE Transactions on Network and Service Management"
@@ -38,7 +52,7 @@ layout = "single"
     [[publist.sections.items]]
     title = "Tolerating Compound Threats in Critical Infrastructure Control Systems"
     authors = "Sahiti Bommareddy, Maher Khan, Huzaifah Nadeem, Benjamin Gilby, Imes Chiu, John W. van de Lindt, Omar Nofal, Mathaios Panteli, Linton Wells II, Yair Amir, and Amy Babay"
-    venue = "IEEE International Symposium on Reliable Distributed Systems"
+    venue = "International Symposium on Reliable Distributed Systems"
     venue_abbrev = "SRDS"
     venue_link = "https://srds-conference.org/"
     pdf = "https://sites.pitt.edu/~babay/pubs/srds24_compoundThreats.pdf"
@@ -49,7 +63,7 @@ layout = "single"
     [[publist.sections.items]]
     title = "Availability Analysis of Network-Attack-Resilient Byzantine Fault Tolerant Systems"
     authors = "Aren Alyahya, David Tipper, and Amy Babay"
-    venue = "IEEE International Symposium on Reliable Distributed Systems"
+    venue = "International Symposium on Reliable Distributed Systems"
     venue_abbrev = "SRDS"
     venue_link = "https://srds-conference.org/"
     pdf = "https://sites.pitt.edu/~babay/pubs/srds24_availability.pdf"
@@ -59,7 +73,7 @@ layout = "single"
     [[publist.sections.items]]
     title = "Making Intrusion Tolerance Accessible: A Cloud-Based Hybrid Management Approach to Deploying Resilient Systems"
     authors = "Maher Khan and Amy Babay"
-    venue = "IEEE International Symposium on Reliable Distributed Systems"
+    venue = "International Symposium on Reliable Distributed Systems"
     venue_abbrev = "SRDS"
     venue_link = "https://srds-conference.org/"
     venue_year_link = "https://srds-conference.org/2023/"
