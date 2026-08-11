@@ -10,15 +10,20 @@ layout = "single"
     [[publist.sections.items]]
     title = "Replicating and Extending SUSS: TCP Slow-Start Acceleration on AWS"
     authors = "Anthony Gatti, Jiaao Lyu, Tanishka Deshpande, and Amy Babay"
-    venue = "ACM Internet Measurement Conference (IMC)"
-    date = "2026-01-01"
+    venue = "ACM Internet Measurement Conference"
+    venue_abbrev = "IMC"
+    venue_link = "https://conferences.sigcomm.org/imc/2026/"
+    date = "2026-10-12"
     note = "Replicability Track, Accepted"
 
     [[publist.sections.items]]
     title = "Q-GUARD: Fidelity-Guaranteed Entanglement Routing with Distributed Purification Planning"
     authors = "Anthony Gatti, Anoosha Fayyaz, Prashant Krishnamurthy, Kaushik P. Seshadreesan, and Amy Babay"
-    venue = "1st International Workshop on Networked Quantum Systems and Applications (NetQSA) at IEEE International Conference on Network Protocols (ICNP)"
-    date = "2026-01-01"
+    venue = "ICNP Workshop on Networked Quantum Systems and Applications"
+    venue_abbrev = "NetQSA"
+    venue_link = "https://netqsa.github.io/netqsa26/"
+    arxiv = "https://arxiv.org/abs/2605.00246"
+    date = "2026-10-05"
     note = "Accepted"
 
     [[publist.sections.items]]

@@ -41,6 +41,10 @@
             [<a href="{{ .acm }}">ACM DL</a>]
             {{ end }}
 
+            {{ if .arxiv }}
+            [<a href="{{ .arxiv }}">arXiv</a>]
+            {{ end }}
+
             {{ if .pdf }}
             [<a href="{{ .pdf }}">PDF</a>]
             {{ end }}
