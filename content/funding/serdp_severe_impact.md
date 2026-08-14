@@ -58,7 +58,7 @@ Specifically, we aim to:
 
 - **Tolerating Compound Threats in Critical Infrastructure Control Systems**  
   *Sahiti Bommareddy, Maher Khan, Huzaifah Nadeem, Benjamin Gilby, Imes Chiu, John W. van de Lindt, Omar Nofal, Mathaios Panteli, Linton Wells II, Yair Amir, and Amy Babay*  
-  [IEEE International Symposium on Reliable Distributed Systems](https://srds-conference.org/) ([SRDS 2023](https://srds-conference.org/))  
+  [International Symposium on Reliable Distributed Systems](https://srds-conference.org/) ([SRDS 2024](https://srds-conference.org/))  
   [[PDF](https://sites.pitt.edu/~babay/pubs/srds24_compoundThreats.pdf)]
 
 - **A Resilience Assessment Framework for Coupled Power and Communication Infrastructure**  
@@ -100,9 +100,9 @@ Specifically, we aim to:
 
 - Demonstration of an intrusion-tolerant SCADA system (configuration "6", with
   6 replicas deployed in a single control center), under emulated compound
-  threats: [video](https://www.dsn.jhu.edu/spire/demos/Config6.mov)
+  threats: [video](https://jhu-dsn.github.io/spire/demos/Config6.mov)
 
 - Demonstration of a network-attack-resilient intrusion-tolerant SCADA system
   (configuration "6+6+6", with 6 replicas deployed in each of two control
   centers and one data center), under emulated compound threats:
-  [video](https://www.dsn.jhu.edu/spire/demos/Config666.mov)
+  [video](https://jhu-dsn.github.io/spire/demos/Config666.mov)

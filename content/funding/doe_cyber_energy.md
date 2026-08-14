@@ -37,3 +37,12 @@ twins. We aim to develop intrusion-tolerant digital twins of key pieces of
 power grid infrastructure and create frameworks to shift control to the digital
 twins to enable seamlessly transitioning to more resilient system architectures
 without interruptions.
+
+### Publications
+
+- **Using Digital Twins as an Upgrade Path for Critical Infrastructure Control Systems**  
+  *Huzaifah Nadeem and Amy Babay*  
+  [IEEE/IFIP DSN Workshop on Workshop on Digital Twins for Dependability, Resilience and Security](https://dt4drs2025.dieti.unina.it/) ([DT4DRS 2025](https://dt4drs2025.dieti.unina.it/))  
+  [[PDF](https://sites.pitt.edu/~babay/pubs/dt4drs25_upgrade.pdf)]
+   [[IEEEXplore](https://ieeexplore.ieee.org/abstract/document/11071557)]
+

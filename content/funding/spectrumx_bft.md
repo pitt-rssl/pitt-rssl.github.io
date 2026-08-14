@@ -13,6 +13,7 @@ funder_link = "https://www.spectrumx.org/"
 - University of Pittsburgh
     - [Dr. Amy Babay](https://sites.pitt.edu/~babay/)
     - [Dr. Prashant Krishnamurthy](https://sites.pitt.edu/~prashk/)
+    - Xiaoxuan Qin
 
 ### Overview
 
@@ -31,3 +32,15 @@ consistent decisions despite arbitrary behavior from a subset of nodes.
 
 In this seed project, we map spectrum sharing strategies to BFT models that can
 make spectrum sharing trustworthy for incumbents and secondary users.
+
+### Publications
+
+- **Taming the Airwaves: Resilient Spectrum Sharing with BFT**  
+  *Xiaoxuan Qin, Prashant Krishnamurthy, and Amy Babay*  
+  [IEEE/IFIP DSN Disrupt Track](https://dsn.org) ([DSN-S 2026](https://dsn2026.github.io/index.html))  
+  [[PDF](https://sites.pitt.edu/~babay/pubs/dsn-s26_spectrum.pdf)]
+
+- **Byzantine Fault Tolerance Models for Distributed Coordination in Dynamic Spectrum Sharing**  
+  *Amy Babay, Prashant Krishnamurthy, Ilia Murtazashvili, and Xiaoxuan Qin*  
+  [The 53rd Research Conference on Communication, Information and Internet Policy](https://www.tprcweb.com/) ([TPRC 2025](https://www.tprcweb.com/))  
+  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5375967)]

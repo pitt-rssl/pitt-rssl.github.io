@@ -13,6 +13,7 @@ funder_link = "https://www.dla.mil/"
 - University of Pittsburgh
     - [Dr. Amy Babay](https://sites.pitt.edu/~babay/)
     - Jack Drabenstadt
+    - Scott Sullivan
     - Derrick Hicks
 - Spread Concepts LLC
     - [Dr. Yair Amir](https://www.linkedin.com/in/yair-amir-61b58/)

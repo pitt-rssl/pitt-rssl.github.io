@@ -16,8 +16,14 @@ layout = "single"
     image = "babay_photo_small.png"
 
     [[people.sections.rows.items]]
+    name="Anthony Gatti"
+    research_interests = "Quantum networks, wide area networks"
+    image = "placeholder.png"
+    url = "https://www.linkedin.com/in/anthonygatti4/"
+
+    [[people.sections.rows.items]]
     name="Aren Alyahya"
-    research_interests = "Overlay networks, real-time internet services"
+    research_interests = "Overlay networks, real-time internet services, BFT, availability analysis"
     image = "aren_alyahya.jpg"
     url = "https://www.linkedin.com/in/aren-alyahya/"
 
