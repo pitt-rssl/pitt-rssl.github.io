@@ -25,6 +25,9 @@ theme = "business-frontpage"
         name = "Research"
         url = "/research/"
         [[params.navbar.nav]]
+        name = "Software"
+        url = "/software/"
+        [[params.navbar.nav]]
         name = "Publications"
         url = "/publications/"
         [[params.navbar.nav]]
