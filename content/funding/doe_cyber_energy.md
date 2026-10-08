@@ -22,6 +22,7 @@ funder_link = "https://www.energy.gov/ceser/articles/university-based-cybersecur
     - Dr. Erica Owen
 
 The team also includes a number of excellent students and industry partners.
+RSSLab participants are Amy Babay and PhD student Huzaifah Nadeem.
 
 ### Overview
 
@@ -46,3 +47,8 @@ without interruptions.
   [[PDF](https://sites.pitt.edu/~babay/pubs/dt4drs25_upgrade.pdf)]
    [[IEEEXplore](https://ieeexplore.ieee.org/abstract/document/11071557)]
 
+### Presentations
+
+- **Intrusion Tolerance using Cyber Digital Twins: Phase 2 Demo**  
+  *Cyber Energy Center Industry Advisory Board Meeting, September 2026*  
+  [[Slides - Embedded Video of Demonstration]](/assets/presentations/2026_09_CEC_Final_demo-presentation.pptx)
